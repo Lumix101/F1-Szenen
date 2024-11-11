@@ -88,7 +88,7 @@
         { "actor":4, "text": "Mach’s kurz, Faust. Los, tu es." },
         { "actor":8, "text": "Gott im Himmel, was ist hier passiert?" },
         { "actor":7, "text": "Valentin! Oh mein Gott, was ist mit dir?" },
-        { "actor":15, "text": "Gretchen... du... hast gesündigt. Du hast alles zerstört. Ich sterbe... und das ist deine Schuld." },
+        { "actor":15, "text": "Gretchen... du... hast gesündigt. Du hast alles zerstört. Ich sterbe... und das ist deine Schuld." }
       ]
     },
 
@@ -104,7 +104,7 @@
         { "actor":8, "text": "Ach, Herr Mephisto, Sie sind so charmant!" },
         { "actor":4, "text": "Übrigens, Gretchen, Faust, mein Freund, hat großes Interesse an dir. Er würde dich gerne kennenlernen." },
         { "actor":8, "text": "Dann kommt doch heute Abend in meinen Garten! Ihr könnt euch dort treffen. Faust und Sie, Herr Mephisto, sind herzlich eingeladen!" },
-        { "actor":7, "text": "Oh, das klingt... spannend." },
+        { "actor":7, "text": "Oh, das klingt... spannend." }
       ]
     },
 
@@ -122,14 +122,14 @@
         { "actor":4, "text": "Weißt du, du erinnerst mich an Falco, der hat auch jeder hinterher geschaut." },
         { "actor":6, "text": "Jetzt hör mir mal genau zu! Wenn ich sie heute nicht sehe, dann war es das mit uns" },
         { "actor":4, "text": "Aber bedenke doch, was ich da alles regeln muss. Da benötige ich etwas mehr Zeit." },
-        { "actor":6, "text": "Ich habe aber keine Zeit, was braucht denn der Teufel alles dafür, um eine junge Dame zu verführen?" }
-        { "actor":4, "text": "Du sprichst schon wie eine Lusche! " }
-        { "actor":6, "text": "Ich will sie. Ich habe so Lust auf sie." }
-        { "actor":4, "text": "Jetzt ohne Schimpf und ohne Spaß, ich sag euch, mit dem schönen Kind gehts ein für allemal nicht geschwind, also es ist nicht so einfach!" }
-        { "actor":6, "text": "Ich bin spitz, wie ein Rettig!" }
-        { "actor":4, "text": "Juti, ich habe es verstanden. Ich führe dich heute noch in ihr Zimmer." }
-        { "actor":6, "text": "Also gehen wir heute hin?" }
-        { "actor":4, "text": "Nein! Sie ist bestimmt bei ihrer Nachbarin! " }
+        { "actor":6, "text": "Ich habe aber keine Zeit, was braucht denn der Teufel alles dafür, um eine junge Dame zu verführen?" },
+        { "actor":4, "text": "Du sprichst schon wie eine Lusche! " },
+        { "actor":6, "text": "Ich will sie. Ich habe so Lust auf sie." },
+        { "actor":4, "text": "Jetzt ohne Schimpf und ohne Spaß, ich sag euch, mit dem schönen Kind gehts ein für allemal nicht geschwind, also es ist nicht so einfach!" },
+        { "actor":6, "text": "Ich bin spitz, wie ein Rettig!" },
+        { "actor":4, "text": "Juti, ich habe es verstanden. Ich führe dich heute noch in ihr Zimmer." },
+        { "actor":6, "text": "Also gehen wir heute hin?" },
+        { "actor":4, "text": "Nein! Sie ist bestimmt bei ihrer Nachbarin! " },
         { "actor":6, "text": "Okay….Mmh, können wir trotzdem hin?" }
       ]
     },
@@ -169,26 +169,7 @@
         { "actor":6, "text": "Aber wir können alles hinter uns lassen! Wir könnten ein neues Leben beginnen, ich schwöre dir, alles wird besser!" },
         { "actor":7, "text": "Ich muss mich meinem Schicksal stellen. Ich habe meine Fehler erkannt und tue Buße für all das. Die Flucht ist keine Lösung für das, was geschehen ist. Ich kann nicht mit dir in die Dunkelheit fliehen.e" },
         { "actor":6, "text": "Gretchen, bitte! Du kannst das nicht ernst meinen!" },
-        { "actor":7, "text": "Lass mich in Frieden. Ich habe mein Urteil gefällt und werde die Konsequenzen tragen. Vielleicht wird Gott mich erhören und mir Vergebung schenken, wenn ich mein Leben so lebe, wie es sein sollte." },
-      ]
-    },
-
-    {
-      "label": "Nachbarin Haus",
-      "text": [
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":2, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärk" },
+        { "actor":7, "text": "Lass mich in Frieden. Ich habe mein Urteil gefällt und werde die Konsequenzen tragen. Vielleicht wird Gott mich erhören und mir Vergebung schenken, wenn ich mein Leben so lebe, wie es sein sollte." }
       ]
     },
 
@@ -211,7 +192,8 @@
         { "actor":6, "text": "Gretchen, ich möchte dich wiedersehen, so oft ich kann." },
         { "actor":7, "text": "Ich würde das auch gerne, Faust. Aber es ist alles so kompliziert. Meine Mutter würde es nie erlauben" },
         { "actor":6, "text": "Dann finden wir einen Weg. Nichts soll uns aufhalten." },
-        { "actor":7, "text": "Vielleicht... vielleicht finden wir wirklich einen Weg." },
+        { "actor":7, "text": "Vielleicht... vielleicht finden wir wirklich einen Weg." }
+      ]
     },
 
     {
@@ -229,11 +211,11 @@
         { "actor":6, "text": "Was soll das sein?" },
         { "actor":4, "text": "So du Wahrsagerin, hier ist das Glas-fülle es!" },
         { "actor":25, "text": "Wo sind denn eure beiden Raben? Sinn und Verstand verliere ich hier!" },
-        { "actor":4, "text": "Weib, ich verlange von euch nur ein Glas vom altbekannten Saft!" }
-        { "actor":25, "text": "Gern! Hier habe ich eine Flasche, von der ich selbst gern nasche!" }
-        { "actor":6, "text": "Was soll dieses Schauspiel hier? So kenne ich dich gar nicht? Sei nicht so ein Strenger Mann!" }
-        { "actor":25, "text": "Hier ist ein besonderer Trank für dich. Wenn du das Lied singst, wirst du seine besondere Wirkung spüren." }
-        { "actor":6, "text": "Oh, ich spüre, wie eine ungewohnte Wärme durch meinen Körper rauscht. Ich fühle mich So anders. Wo ist ein Spiegel? " }
+        { "actor":4, "text": "Weib, ich verlange von euch nur ein Glas vom altbekannten Saft!" },
+        { "actor":25, "text": "Gern! Hier habe ich eine Flasche, von der ich selbst gern nasche!" },
+        { "actor":6, "text": "Was soll dieses Schauspiel hier? So kenne ich dich gar nicht? Sei nicht so ein Strenger Mann!" },
+        { "actor":25, "text": "Hier ist ein besonderer Trank für dich. Wenn du das Lied singst, wirst du seine besondere Wirkung spüren." },
+        { "actor":6, "text": "Oh, ich spüre, wie eine ungewohnte Wärme durch meinen Körper rauscht. Ich fühle mich So anders. Wo ist ein Spiegel? " },
         { "actor":4, "text": "Du siehst mit diesem Trank im Leibe, bald Helenen in jedem Leibe." }
       ]
     }
