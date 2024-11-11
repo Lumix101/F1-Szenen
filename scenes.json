@@ -216,19 +216,24 @@
     {
       "label": "Hexenküche",
       "text": [
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":2, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärk" }
+        { "actor":23, "text": "Wir kochen Suppe für die Armen. " },
+        { "actor":4, "text": "Ihr habt ein großes Publikum!" },
+        { "actor":24, "text": "Mach mich reich und lass mich gewinnen!" },
+        { "actor":4, "text": "Wie glücklich würde sich der Aﬀe schätzen! Was soll das Sieb?" },
+        { "actor":24, "text": "Schau durch das Sieb! Dann siehst du den Dieb. Der alberne Tropf kennt den Kessel nicht!" },
+        { "actor":4, "text": "Unhöfliches Vieh! " },
+        { "actor":24, "text": "Setz dich in den Sessel!" },
+        { "actor":6, "text": "Was zur Hölle sehe ich da? So ein himmlisches Bild von Einer Göttin! Ich werde hier verrückt!" },
+        { "actor":25, "text": "Au,au,au! Verdammtes Vieh! Du verfluchte Sau! Versäumst den Kessel zu rühren? Verfluchtes Vieh! -  Was soll das hier? Du musst verstehen! Aus eins mach Zehn, und zwei lass gehen, und drei mach gleich, so bist du reich. Verlier die Vier! Aus fünf mach sechs, so sagt die Hex, mach sieben und acht, so ists vollbracht, und Neun ist eins, und zehn ist keins. Das ist das Hexen 1x1" },
+        { "actor":6, "text": "Was soll das sein?" },
+        { "actor":4, "text": "So du Wahrsagerin, hier ist das Glas-fülle es!" },
+        { "actor":25, "text": "Wo sind denn eure beiden Raben? Sinn und Verstand verliere ich hier!" },
+        { "actor":4, "text": "Weib, ich verlange von euch nur ein Glas vom altbekannten Saft!" }
+        { "actor":25, "text": "Gern! Hier habe ich eine Flasche, von der ich selbst gern nasche!" }
+        { "actor":6, "text": "Was soll dieses Schauspiel hier? So kenne ich dich gar nicht? Sei nicht so ein Strenger Mann!" }
+        { "actor":25, "text": "Hier ist ein besonderer Trank für dich. Wenn du das Lied singst, wirst du seine besondere Wirkung spüren." }
+        { "actor":6, "text": "Oh, ich spüre, wie eine ungewohnte Wärme durch meinen Körper rauscht. Ich fühle mich So anders. Wo ist ein Spiegel? " }
+        { "actor":4, "text": "Du siehst mit diesem Trank im Leibe, bald Helenen in jedem Leibe." }
       ]
     }
   ]
