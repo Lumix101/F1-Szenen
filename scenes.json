@@ -175,7 +175,7 @@
         { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
         { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
         { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärk" }
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärk" },
       ]
     },
 
@@ -194,27 +194,30 @@
         { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
         { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
         { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärk" }
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärk" },
       ]
     },
 
     {
       "label": "Marthes Garten",
       "text": [
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":2, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärk" }
-      ]
+        { "actor":6, "text": "Gretchen, seit dem Moment, als ich dich das erste Mal sah, hat sich in mir alles verändert. Ich kann an nichts anderes mehr denken als an dich. Du hast mein Herz erobert." },
+        { "actor":7, "text": "Faust, ich spüre das Gleiche. Aber mein Leben ist schwierig. Ich habe so viel Verantwortung. Ich arbeite den ganzen Tag, helfe im Haus und kümmere mich um meine Mutter und meinen Bruder. Meine Familie zählt nur noch auf mich." },
+        { "actor":6, "text": "Das muss schwer sein, so viel zu tragen. Aber ich bewundere dich noch mehr dafür. Du bist so stark und so gu" },
+        { "actor":7, "text": "Manchmal ist es wirklich viel. Meine Mutter ist streng und erwartet viel von mir. Und mein Bruder... er ist oft weg beim Militär, also bleibt alles an mir hängen. Manchmal wünsche ich mir, ich hätte ein anderes Leben, mehr Freiheit." },
+        { "actor":6, "text": "Vielleicht kann ich dir helfen, das Leben zu leben, das du dir wünschst. Ich würde alles für dich tun, Gretchen." },
+        { "actor":7, "text": "Das bedeutet mir viel, Faust. Ich habe noch nie jemanden wie dich getroffen." },
+        { "actor":8, "text": "Mephisto, du bist so ein interessanter Mann. Weißt du, nach allem, was ich durchgemacht habe, fühle ich, dass ich bereit bin für einen neuen Abschnitt in meinem Leben. Mein Mann ist tot, und jetzt kann ich vielleicht wieder an eine Ehe denken." },
+        { "actor":4, "text": "Es ist schwer, so etwas zu verarbeiten, Frau Marthe. Doch Sie sind eine Frau, die weiß, was sie will." },
+        { "actor":8, "text": "Ja, das stimmt. Ich habe schon immer gewusst, wie ich meinen Platz in der Gesellschaft finde. Und ich muss sagen, ein Mann wie du könnte gut zu mir passen." },
+        { "actor":4, "text": "Ach, Frau Marthe, Sie übertreiben. Ich bin nicht der Richtige für solche Überlegungen." },
+        { "actor":8, "text": "Wirklich? Du wirkst auf mich wie ein Mann, der viel zu bieten hat. Und nach all dem, was passiert ist, denke ich, dass ich bereit bin, ein neues Kapitel zu beginnen." },
+        { "actor":4, "text": "Ein neues Kapitel vielleicht, aber nicht mit mir." },
+        { "actor":8, "text": "Nun, wir werden sehen, Mephisto. Vielleicht ändert sich deine Meinung noch." },
+        { "actor":6, "text": "Gretchen, ich möchte dich wiedersehen, so oft ich kann." },
+        { "actor":7, "text": "Ich würde das auch gerne, Faust. Aber es ist alles so kompliziert. Meine Mutter würde es nie erlauben" },
+        { "actor":6, "text": "Dann finden wir einen Weg. Nichts soll uns aufhalten." },
+        { "actor":7, "text": "Vielleicht... vielleicht finden wir wirklich einen Weg." },
     },
 
     {
