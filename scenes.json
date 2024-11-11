@@ -66,21 +66,17 @@
     },
 
     {
-      "label": "Am Brunnen",
+      "label": "Szene Am Brunnen",
       "text": [
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":2, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärk" },
+        { "actor":16, "text": "Hast du schon das von Bärbelchen gehört?" },
+        { "actor":7, "text": "Nee, habe ich nicht! Ich bin ja gar nicht mehr unter Leuten. " },
+        { "actor":16, "text": "Sie hat es mir vorhin auf dem Marktplatz erzählt." },
+        { "actor":7, "text": "Ach Mensch, die Arme! Wird sie auch den Vater des Kindes heiraten?" },
+        { "actor":16, "text": "Wieso die Arme? Da versteht ich dich nicht! Die ist doch selbst schuld an diesem Umstand!" },
+        { "actor":7, "text": "Da hast du recht! Aber verstehst du es nicht? Bärbelchen ist noch So jung, wenn sie nicht geheiratet wird, wird sie von der Gesellschaft verstoßen und steht allein da mit dem Kind." },
+        { "actor":16, "text": "Dann hätte sie sich nicht schwängern lassen dürfen!" },
+        { "actor":7, "text": "Aber das ist doch nicht nur ihre Schuld, dazu gehören immer zweie" },
+        { "actor":16, "text": "Ja, doch sie ist die Frau. Sie hätte es besser wissen müssen. Da kann man kein Mitleid haben. So ein Flittchen! Ich muss jetzt gehen." },
       ]
     },
 
