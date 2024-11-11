@@ -2,8 +2,7 @@
     {
       "label": "Pronolog im Himmel",
       "text": [
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-<<<<<<< HEAD
+        { "actor":1, "text": "Die Sonne gibt den Engeln Stärke" },
         { "actor":2, "text": "Es leuchtet alles so nett" },
         { "actor":3, "text": "Ja, es wird ein schöner Tag" },
         { "actor":4, "text": "Grüsse Dich Herr, eigentlich mögen wir uns ja, freu dich doch mal mich zu sehen, immerhin bin ich hier, weil es mir auf denSack geht, wie Die Menschen nur noch am heulen sind, so ätzend dieses Volk " },
@@ -15,33 +14,32 @@
         { "actor":4, "text": "Genau der, der ist voll dein Sklave, der nervt voll, der woll immer mehr Wissen und kann nur fordern" },
         { "actor":5, "text": "Ich werde Ihn bald mit Wissen erleuchten" },
         { "actor":4, "text": "Wollen wir wetten, dass ich ihn auf meine Seite ziehen kann ?" },
-        { "actor":5, "text": "Du kannst machen, was Du willst, solange Du auf Erden bist" }
+        { "actor":5, "text": "Du kannst machen, was Du willst, solange Du auf Erden bist" },
         { "actor":4, "text": "Das ist nett von Dir, denn ich kann wohl schlecht mit toten labern, kann ich zwar schon, aber das stresst mich" },
         { "actor":5, "text": "Dann versuch es halt ihn auf deine Seite zu kriegen. DU wirst wohl schlecht mit toten labern, kann ich zwar schon, aber stresst mich"},
-        { "actor":4, "text": " Ist schon okay, wird nicht lange dauern, ich habe keine Angst vor dieser Welt. Er soll richtig leiden        "},
-
+        { "actor":4, "text": "Ist schon okay, wird nicht lange dauern, ich habe keine Angst vor dieser Welt. Er soll richtig leiden"}
       ]
     },
 
     {
       "label": "Auerbachs Keller",
       "text": [
-        { "actor":19, "text": "Man wollt Ihr nicht trinken? Sonst sauft ihr euch doch auch die Birne weg " },
-        { "actor":20, "text": " Dann bring uns was zu saufen, Kumpel "},
+        { "actor":19, "text": "Man wollt Ihr nicht trinken? Sonst sauft ihr euch doch auch die Birne weg" },
+        { "actor":20, "text": "Dann bring uns was zu saufen, Kumpel"},
         { "actor":19, "text": "Da hast du es" },
         { "actor":20, "text": "Hast du jetzt voll einen weg ?" },
         { "actor":19, "text": "Wolltest es doch - pech " },
         { "actor":21, "text": "So Freunde Ex oder Wessi" },
         { "actor":22, "text": "Halt endlich mal dein Maul" },
-        { "actor":21, "text": "Wenn du das nochmal sagst , kriegste eine  " },
-        { "actor":19, "text": "genau verschwinde, Junge  " },
-        { "actor":20, "text": "ich hoffe wir finden heute noch hübsche Frauen" },
-        { "actor":19, "text": "oh ja  " },
+        { "actor":21, "text": "Wenn du das nochmal sagst , kriegste eine" },
+        { "actor":19, "text": "Genau verschwinde, Junge" },
+        { "actor":20, "text": "Ich hoffe wir finden heute noch hübsche Frauen" },
+        { "actor":19, "text": "Ohh ja" },
         { "actor":21, "text": "könnt Ihr vergesse" },
         { "actor":19, "text": "Du kannst mich nicht aufhalten" },
-        { "actor":21, "text": "Meine alte hatte afm Blockberg neuen Bock aufgerissen  " },
-        { "actor":4, "text": "Du musst auch mal raus aus deiner Höhle und endlich Spass im Leben haben  " },
-        { "actor":20, "text": "das sind doch Hinterwäldler  " },
+        { "actor":21, "text": "Meine alte hatte afm Blockberg neuen Bock aufgerissen" },
+        { "actor":4,  "text": "Du musst auch mal raus aus deiner Höhle und endlich Spass im Leben haben" },
+        { "actor":20, "text": "Das sind doch Hinterwäldler" }
 
       ]
     },
@@ -61,7 +59,7 @@
         { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
         { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
         { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärk" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärk" }
       ]
     },
 
@@ -69,14 +67,14 @@
       "label": "Szene Am Brunnen",
       "text": [
         { "actor":16, "text": "Hast du schon das von Bärbelchen gehört?" },
-        { "actor":7, "text": "Nee, habe ich nicht! Ich bin ja gar nicht mehr unter Leuten. " },
+        { "actor":7,  "text": "Nee, habe ich nicht! Ich bin ja gar nicht mehr unter Leuten. " },
         { "actor":16, "text": "Sie hat es mir vorhin auf dem Marktplatz erzählt." },
-        { "actor":7, "text": "Ach Mensch, die Arme! Wird sie auch den Vater des Kindes heiraten?" },
+        { "actor":7,  "text": "Ach Mensch, die Arme! Wird sie auch den Vater des Kindes heiraten?" },
         { "actor":16, "text": "Wieso die Arme? Da versteht ich dich nicht! Die ist doch selbst schuld an diesem Umstand!" },
-        { "actor":7, "text": "Da hast du recht! Aber verstehst du es nicht? Bärbelchen ist noch So jung, wenn sie nicht geheiratet wird, wird sie von der Gesellschaft verstoßen und steht allein da mit dem Kind." },
+        { "actor":7,  "text": "Da hast du recht! Aber verstehst du es nicht? Bärbelchen ist noch So jung, wenn sie nicht geheiratet wird, wird sie von der Gesellschaft verstoßen und steht allein da mit dem Kind." },
         { "actor":16, "text": "Dann hätte sie sich nicht schwängern lassen dürfen!" },
-        { "actor":7, "text": "Aber das ist doch nicht nur ihre Schuld, dazu gehören immer zweie" },
-        { "actor":16, "text": "Ja, doch sie ist die Frau. Sie hätte es besser wissen müssen. Da kann man kein Mitleid haben. So ein Flittchen! Ich muss jetzt gehen." },
+        { "actor":7,  "text": "Aber das ist doch nicht nur ihre Schuld, dazu gehören immer zweie" },
+        { "actor":16, "text": "Ja, doch sie ist die Frau. Sie hätte es besser wissen müssen. Da kann man kein Mitleid haben. So ein Flittchen! Ich muss jetzt gehen." }
       ]
     },
 
@@ -95,7 +93,7 @@
         { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
         { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
         { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärk" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärk" }
       ]
     },
 
@@ -114,7 +112,7 @@
         { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
         { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
         { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärk" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärk" }
       ]
     },
 
@@ -133,28 +131,28 @@
         { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
         { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
         { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärk" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärk" }
       ]
     },
 
     {
       "label": "Szene vor dem Tor",
       "text": [
-        { "actor":9, "text": "Wo wollen wir hin?" },
+        { "actor":9,  "text": "Wo wollen wir hin?" },
         { "actor":10, "text": "Wollen wir zur Mühle wandern?" },
-        { "actor":9, "text": "Lasst uns zum Burghof gehen, da gibt es das beste Bier und die schönsten Mädchen! Sie gehen zum Stehtisch und trinken. Die Kinder kommen auf die Bühne und machen Ringel reihe und spielen. Die Mädels unterhalten sich" },
+        { "actor":9,  "text": "Lasst uns zum Burghof gehen, da gibt es das beste Bier und die schönsten Mädchen! Sie gehen zum Stehtisch und trinken. Die Kinder kommen auf die Bühne und machen Ringel reihe und spielen. Die Mädels unterhalten sich" },
         { "actor":12, "text": "Die Sonne scheint so warm. Lass uns in die Stadt gehen." },
         { "actor":13, "text": "Schau doch, da sind schöne Knaben! Lass uns hier bleiben!" },
         { "actor":12, "text": "Na gut. Dann bleiben wir eben hier. (Sie vergnügen sich an der Stimmung.)Trinken mit Wein in der Runde" },
         { "actor":14, "text": "Es ist schön mit euch spazieren zu gehen. Schau nur wie glücklich die Menschen sind!" },
-        { "actor":9, "text": "Herr Doktor, es ist schön, auch euch hier zu treﬀen! Trinkt ein Bier mit uns!" },
-        { "actor":6, "text": "Ich nehme den Erquickungstrank sehr gern, bitte auch für meinen Studenten!" },
+        { "actor":9,  "text": "Herr Doktor, es ist schön, auch euch hier zu treﬀen! Trinkt ein Bier mit uns!" },
+        { "actor":6,  "text": "Ich nehme den Erquickungstrank sehr gern, bitte auch für meinen Studenten!" },
         { "actor":14, "text": "Wenn du, als Jüngling, deinen Vater ehrst, so wird er sich immer freuen, dich zu sehen, Wenn du als Mann die Wissenschaft weiter nach vorn bringst, kannst du deinen Sohn zu Höheren Zielen führen." },
-        { "actor":6, "text": ": Was man nicht weiß, dass bräuchte man, was man weiß, das bräuchte man eben nicht! Oh je, zwei Seelen wohnen, ach! In meiner Brust. Die eine will sich von der anderen trennen, die eine hält, in derber Liebeslust, sich an die Welt mitklammernden Organen, die andere hebt gewaltsam sich vom Dust zu den Gefilden hoher Ahnen. Oh gibt es Geister in der Luft?" },
+        { "actor":6,  "text": "Was man nicht weiß, dass bräuchte man, was man weiß, das bräuchte man eben nicht! Oh je, zwei Seelen wohnen, ach! In meiner Brust. Die eine will sich von der anderen trennen, die eine hält, in derber Liebeslust, sich an die Welt mitklammernden Organen, die andere hebt gewaltsam sich vom Dust zu den Gefilden hoher Ahnen. Oh gibt es Geister in der Luft?" },
         { "actor":14, "text": "Das kann ich nicht sagen, aber haben Sie den Hund bemerkt? " },
-        { "actor":6, "text": "Jagt er uns? Mir scheint, als zieht er magische Schlingen um uns." },
+        { "actor":6,  "text": "Jagt er uns? Mir scheint, als zieht er magische Schlingen um uns." },
         { "actor":14, "text": "Er wackelt mit seinem Schwanz! Das ist ein normales Verhalten für einen Hund. Seht es ist ein schwarzer Pudel!" },
-        { "actor":6, "text": "Du hast wohl recht! Ich sehe Gespenster, wo keine sind!" },
+        { "actor":6,  "text": "Du hast wohl recht! Ich sehe Gespenster, wo keine sind!" }
       ]
     },
 
@@ -173,7 +171,7 @@
         { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
         { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
         { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärk" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärk" }
       ]
     },
 
@@ -192,7 +190,7 @@
         { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
         { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
         { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärk" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärk" }
       ]
     },
 
@@ -211,7 +209,7 @@
         { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
         { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
         { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärk" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärk" }
       ]
     },
 
@@ -230,7 +228,7 @@
         { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
         { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
         { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärk" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärk" }
       ]
-    },
+    }
   ]
