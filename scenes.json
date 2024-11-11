@@ -100,19 +100,16 @@
     {
       "label": "Nachbarin Haus",
       "text": [
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":2, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärk" }
+        { "actor":8, "text": "Ach, Gretchen! Ich weiß einfach nicht mehr weiter. Mein Mann ist weg, und ich habe keine Ahnung, wo er ist. Ob er noch lebt oder längst tot ist. Was soll ich bloß machen?" },
+        { "actor":7, "text": "Das ist wirklich schlimm, Marthe. Aber weißt du, ich habe etwas gefunden... Schmuck! Ganz tollen Schmuck!" },
+        { "actor":8, "text": "Oh, das klingt wunderbar! Aber sag deiner Mutter lieber nichts davon. Sie würde es dir nur wegnehmen. Trag ihn heimlich, hier bei mir." },
+        { "actor":4, "text": "Guten Tag, Frau Marthe. Ich habe leider schlechte Nachrichten für Sie. Ihr Mann ist tot." },
+        { "actor":8, "text": "Tot? Oh Gott! Das... das trifft mich hart. Aber... ist wirklich kein Erbe für mich da?" },
+        { "actor":4, "text": "Leider nein. Aber ich muss sagen, es ist mir eine Freude, Ihnen zu begegnen." },
+        { "actor":8, "text": "Ach, Herr Mephisto, Sie sind so charmant!" },
+        { "actor":4, "text": "Übrigens, Gretchen, Faust, mein Freund, hat großes Interesse an dir. Er würde dich gerne kennenlernen." },
+        { "actor":8, "text": "Dann kommt doch heute Abend in meinen Garten! Ihr könnt euch dort treffen. Faust und Sie, Herr Mephisto, sind herzlich eingeladen!" },
+        { "actor":7, "text": "Oh, das klingt... spannend." },
       ]
     },
 
