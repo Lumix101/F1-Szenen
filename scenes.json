@@ -1,56 +1,229 @@
 [
     {
+      "label": "Pronolog im Himmel",
+      "text": [
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":2, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärk" },
+      ]
+    },
+
+    {
+      "label": "Auerbachs Keller",
+      "text": [
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":2, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärk" },
+      ]
+    },
+
+    {
+      "label": "Nacht",
+      "text": [
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":2, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärk" },
+      ]
+    },
+
+    {
+      "label": "Am Brunnen",
+      "text": [
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":2, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärk" },
+      ]
+    },
+
+    {
+      "label": "Nacht. Straße vor Gretchens Türe",
+      "text": [
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":2, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärk" },
+      ]
+    },
+
+    {
       "label": "Nachbarin Haus",
       "text": [
-        { "actor": 2, "text": "Ach, Gretchen! Ich weiß einfach nicht mehr weiter. Mein Mann ist weg, und ich habe keine Ahnung, wo er ist. Ob er noch lebt oder längst tot ist. Was soll ich bloß machen?" },
-        { "actor": 1, "text": "Das ist wirklich schlimm, Marthe. Aber weißt du, ich habe etwas gefunden... Schmuck! Ganz tollen Schmuck!" },
-        { "actor": 2, "text": "Oh, das klingt wunderbar! Aber sag deiner Mutter lieber nichts davon. Sie würde es dir nur wegnehmen. Trag ihn heimlich, hier bei mir." },
-        { "actor": 3, "text": "Guten Tag, Frau Marthe. Ich habe leider schlechte Nachrichten für Sie. Ihr Mann ist tot." },
-        { "actor": 2, "text": "Tot? Oh Gott! Das... das trifft mich hart. Aber... ist wirklich kein Erbe für mich da?" },
-        { "actor": 3, "text": "Leider nein. Aber ich muss sagen, es ist mir eine Freude, Ihnen zu begegnen." },
-        { "actor": 2, "text": "Ach, Herr Mephisto, Sie sind so charmant!" },
-        { "actor": 3, "text": "Übrihens, Gretchen, Faust, mein Freund, hat großes Interesse an dir. Er würde dich gerne kennenlernen." },
-        { "actor": 2, "text": "Dann kommt doch heute Abend in meinen Garten! Ihr könnt euch dort treffen. Faust und Sie, Herr Mephisto, sind herzlich eingeladen!" },
-        { "actor": 1, "text": "Oh, das klingt... spannend." }
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":2, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärk" },
       ]
     },
+
     {
-      "label": "Marthes Garten",
+      "label": "Straße",
       "text": [
-        { "actor": 4, "text": "Gretchen, seit dem Moment, als ich dich das erste Mal sah, hat sich in mir alles verändert. Ich kann an nichts anderes mehr denken als an dich. Du hast mein Herz erobert." },
-        { "actor": 1, "text": "Faust, ich spüre das Gleiche. Aber mein Leben ist schwierig. Ich habe so viel Verantwortung. Ich arbeite den ganzen Tag, helfe im Haus und kümmere mich um meine Mutter und meinen Bruder. Meine Familie zählt nur noch auf mich." },
-        { "actor": 4, "text": "Das muss schwer sein, so viel zu tragen. Aber ich bewundere dich noch mehr dafür. Du bist so stark und so gut." },
-        { "actor": 1, "text": "Manchmal ist es wirklich viel. Meine Mutter ist streng und erwartet viel von mir. Und mein Bruder... er ist oft weg beim Militär, also bleibt alles an mir hängen. Manchmal wünsche ich mir, ich hätte ein anderes Leben, mehr Freiheit." },
-        { "actor": 4, "text": "Vielleicht kann ich dir helfen, das Leben zu leben, das du dir wünschst. Ich würde alles für dich tun, Gretchen." },
-        { "actor": 1, "text": "Das bedeutet mir viel, Faust. Ich habe noch nie jemanden wie dich getroffen." },
-        { "actor": 2, "text": "Mephisto, du bist so ein interessanter Mann. Weißt du, nach allem, was ich durchgemacht habe, fühle ich, dass ich bereit bin für einen neuen Abschnitt in meinem Leben. Mein Mann ist tot, und jetzt kann ich vielleicht wieder an eine Ehe denken." },
-        { "actor": 3, "text": "Es ist schwer, so etwas zu verarbeiten, Frau Marthe. Doch Sie sind eine Frau, die weiß, was sie will." },
-        { "actor": 2, "text": "Ja, das stimmt. Ich habe schon immer gewusst, wie ich meinen Platz in der Gesellschaft finde. Und ich muss sagen, ein Mann wie du könnte gut zu mir passen." },
-        { "actor": 3, "text": "Ach, Frau Marthe, Sie übertreiben. Ich bin nicht der Richtige für solche Überlegungen." },
-        { "actor": 2, "text": "Wirklich? Du wirkst auf mich wie ein Mann, der viel zu bieten hat. Und nach all dem, was passiert ist, denke ich, dass ich bereit bin, ein neues Kapitel zu beginnen." },
-        { "actor": 3, "text": "Ein neues Kapitel vielleicht, aber nicht mit mir." },
-        { "actor": 2, "text": "Nun, wir werden sehen, Mephisto. Vielleicht ändert sich deine Meinung noch." },
-        { "actor": 4, "text": "Gretchen, ich möchte dich wiedersehen, so oft ich kann." },
-        { "actor": 1, "text": "Ich würde das auch gerne, Faust. Aber es ist alles so kompliziert. Meine Mutter würde es nie erlauben." },
-        { "actor": 4, "text": "Dann finden wir einen Weg. Nichts soll uns aufhalten." },
-        { "actor": 1, "text": "Vielleicht... vielleicht finden wir wirklich einen Weg." }
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":2, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärk" },
       ]
     },
+
+    {
+      "label": "Vor dem Tor",
+      "text": [
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":2, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärk" },
+      ]
+    },
+
     {
       "label": "Kerker",
       "text": [
-        { "actor": 4, "text": "Gretchen, ich bin's! Ich habe die Schlüssel zu deinem Kerker. Ich kann dich hier nicht länger einsperren lassen!" },
-        { "actor": 1, "text": "Wer da? Wer stört mich in meinem Elend?" },
-        { "actor": 4, "text": "Es ist Faust, der dich kommen hören wollte! Hör auf zu singen, ich bin hier, um dich zu retten!" },
-        { "actor": 1, "text": "Faust? Ist das wirklich du? Oder bist du der Henker, der gekommen ist, um mir den letzten Schlag zu versetzen?" },
-        { "actor": 4, "text": "Nein, ich bin es, der dich liebt! Komm mit mir, lass uns zusammen fliehen und ein neues Leben anfangen, weit weg von diesem Ort des Schmerzes!" },
-        { "actor": 1, "text": "Fliehen? Denkst du, ich habe nicht genug für dich getan? Du weißt, dass meine Mutter gestorben ist, damit ich mit dir zusammen sein kann. Und mein Bruder... er starb durch deinen Degen, Faust!" },
-        { "actor": 4, "text": "Ich liebe dich, Gretchen! Ich wollte dir nie weh tun. Lass uns alles hinter uns lassen, ich kann nicht ohne dich leben!" },
-        { "actor": 1, "text": "Nein, Faust. Ich sehe dich nicht mehr als meinen Geliebten. Du hast mich in diese Lage gebracht. Ich kann nicht für immer in Sünde leben und das Kind in mir ignorieren." },
-        { "actor": 4, "text": "Aber wir können alles hinter uns lassen! Wir könnten ein neues Leben beginnen, ich schwöre dir, alles wird besser!" },
-        { "actor": 1, "text": "Ich muss mich meinem Schicksal stellen. Ich habe meine Fehler erkannt und tue Buße für all das. Die Flucht ist keine Lösung für das, was geschehen ist. Ich kann nicht mit dir in die Dunkelheit fliehen." },
-        { "actor": 4, "text": "Gretchen, bitte! Du kannst das nicht ernst meinen!" },
-        { "actor": 1, "text": "Lass mich in Frieden. Ich habe mein Urteil gefällt und werde die Konsequenzen tragen. Vielleicht wird Gott mich erhören und mir Vergebung schenken, wenn ich mein Leben so lebe, wie es sein sollte." }
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":2, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärk" },
       ]
-    }
+    },
+
+    {
+      "label": "Nachbarin Haus",
+      "text": [
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":2, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärk" },
+      ]
+    },
+
+    {
+      "label": "Marthes Garten",
+      "text": [
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":2, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärk" },
+      ]
+    },
+
+    {
+      "label": "Hexenküche",
+      "text": [
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":2, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
+        { "actor":1, "text": "die Sonne gibt den Engeln Stärk" },
+      ]
+    },
   ]
