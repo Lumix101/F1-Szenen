@@ -81,19 +81,14 @@
     {
       "label": "Nacht. Straße vor Gretchens Türe",
       "text": [
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":2, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärke" },
-        { "actor":1, "text": "die Sonne gibt den Engeln Stärk" }
+        { "actor":4, "text": "Ach, was für eine laue Nacht. Da singt sich’s doch gleich besser!e" },
+        { "actor":15, "text": "Was läuft hier? Worum geht’s? Irgendwas stimmt hier nicht.Es geht um Gretchen, oder? Was habt ihr mit ihr gemacht?" },
+        { "actor":6, "text": "Ähm... das ist nicht, wie du denkst.." },
+        { "actor":15, "text": "Schluss mit dem Gerede! Ich lass das nicht auf mir sitzen. Kommt her, wenn ihr euch traut!" },
+        { "actor":4, "text": "Mach’s kurz, Faust. Los, tu es." },
+        { "actor":8, "text": "Gott im Himmel, was ist hier passiert?" },
+        { "actor":7, "text": "Valentin! Oh mein Gott, was ist mit dir?" },
+        { "actor":15, "text": "Gretchen... du... hast gesündigt. Du hast alles zerstört. Ich sterbe... und das ist deine Schuld." },
       ]
     },
 
