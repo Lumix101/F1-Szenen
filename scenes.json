@@ -1,324 +1,982 @@
 [
-    {
-      "label": "Szene Nacht 1",
-      "text": [
-        { "actor":1, "text": "Die Sonne gibt den Engeln Stärke" },
-        { "actor":2, "text": "Es leuchtet alles so nett" },
-        { "actor":3, "text": "Ja, es wird ein schöner Tag" },
-        { "actor":4, "text": "Grüsse Dich Herr, eigentlich mögen wir uns ja, freu dich doch mal mich zu sehen, immerhin bin ich hier, weil es mir auf denSack geht, wie Die Menschen nur noch am heulen sind, so ätzend dieses Volk " },
-        { "actor":5, "text": "Hast Du mir nichts anderes zu sagen  Musst Du mich schon wieder mit den Menschen nerven " },
-        { "actor":4, "text": "Nein  Da unten ist es nur ätzend " },
-        { "actor":5, "text": "Kennst Du den Faust " },
-        { "actor":4, "text": "Den alten Doktor " },
-        { "actor":5, "text": "Meinen Knecht" },
-        { "actor":4, "text": "Genau der, der ist voll dein Sklave, der nervt voll, der woll immer mehr Wissen und kann nur fordern" },
-        { "actor":5, "text": "Ich werde Ihn bald mit Wissen erleuchten" },
-        { "actor":4, "text": "Wollen wir wetten, dass ich ihn auf meine Seite ziehen kann " },
-        { "actor":5, "text": "Du kannst machen, was Du willst, solange Du auf Erden bist" },
-        { "actor":4, "text": "Das ist nett von Dir, denn ich kann wohl schlecht mit toten labern, kann ich zwar schon, aber das stresst mich" },
-        { "actor":5, "text": "Dann versuch es halt ihn auf deine Seite zu kriegen. DU wirst wohl schlecht mit toten labern, kann ich zwar schon, aber stresst mich"},
-        { "actor":4, "text": "Ist schon okay, wird nicht lange dauern, ich habe keine Angst vor dieser Welt. Er soll richtig leiden"}
-      ]
-    },
-
-    {
-      "label": "Szene Auerbachs Keller",
-      "text": [
-        { "actor":19, "text": "Man wollt Ihr nicht trinken Sonst sauft ihr euch doch auch die Birne weg" },
-        { "actor":20, "text": "Dann bring uns was zu saufen, Kumpel"},
-        { "actor":19, "text": "Da hast du es" },
-        { "actor":20, "text": "Hast du jetzt voll einen weg " },
-        { "actor":19, "text": "Wolltest es doch - pech " },
-        { "actor":21, "text": "So Freunde Ex oder Wessi" },
-        { "actor":22, "text": "Halt endlich mal dein Maul" },
-        { "actor":21, "text": "Wenn du das nochmal sagst , kriegste eine" },
-        { "actor":19, "text": "Genau verschwinde, Junge" },
-        { "actor":20, "text": "Ich hoffe wir finden heute noch hübsche Frauen" },
-        { "actor":19, "text": "Ohh ja" },
-        { "actor":21, "text": "könnt Ihr vergesse" },
-        { "actor":19, "text": "Du kannst mich nicht aufhalten" },
-        { "actor":21, "text": "Meine alte hatte afm Blockberg neuen Bock aufgerissen" },
-        { "actor":4,  "text": "Du musst auch mal raus aus deiner Höhle und endlich Spass im Leben haben" },
-        { "actor":20, "text": "Das sind doch Hinterwäldler" }
-
-      ]
-    },
-
-    {
-      "label": "Szene Nacht",
-      "text": [
-        { "actor":6, "text": "Ich bin Doktor,Magister und fürchte mich vor nichts. Ich strebte mein ganzes Leben schon nach Wissen" },
-        { "actor":6, "text": "Da hilft nur noch Magie" },
-        { "actor":6, "text": "OhDu bist aber besonders hässlich" },
-        { "actor":17, "text": "Also zuerst beschwörst du mich in diesen Saftladen und dann nennst du mich hässlichDas ist eine Unverschämtheit, hast du jemals selbst in den Spiegel geblickt oder ist der Spiegel davor schon zerbrochenIch mach gar nichts für dich, bye-bye" },
-        { "actor":6, "text": "Scheiße, dieses dumme Miststück" },
-        { "actor":6, "text": "Ugh,das muss mein Schüler sein." },
-        { "actor":14, "text": "Geht es ihnen gutIch habe Stimmen aus ihrem Haus wahrgenommen,aber Sie gucken wahrscheinlich gerade nur GZSZ" },
-        { "actor":6, "text": "Ja,das ist richtig und jetzt verschwinde" },
-        { "actor":14, "text": "Okay,ich geh ja schon,bis dann" },
-        { "actor":6, "text": "Mein Leben ist wertlos und selbst der Erdgeist hat mich abgelehnt.Es ist Zeit meinem Leben ein Ende zu setzen mit diesem Gift" },
-        { "actor":18, "text": "Jesus hat sich geopfert für euch Menschen auf Erden.Der Herr sehnt dein Ende noch nicht herbei. Lebe Faust,dein Leben hat noch einen Sinn" },
-        { "actor":6, "text": ":Oh...der Klang der Osterglocken,ich erinnere mich.Ihr habt recht,mein Leben hat noch einen Sinn" },
-        { "actor":18, "text": "Wir werden immer über dich wachen,Faust" }
-      ]
-    },
-
-    {
-      "label": "Szene Am Brunnen",
-      "text": [
-        { "actor":16, "text": "Hast du schon das von Bärbelchen gehört" },
-        { "actor":7,  "text": "Nee, habe ich nicht Ich bin ja gar nicht mehr unter Leuten. " },
-        { "actor":16, "text": "Sie hat es mir vorhin auf dem Marktplatz erzählt." },
-        { "actor":7,  "text": "Ach Mensch, die Arme Wird sie auch den Vater des Kindes heiraten" },
-        { "actor":16, "text": "Wieso die Arme Da versteht ich dich nicht Die ist doch selbst schuld an diesem Umstand" },
-        { "actor":7,  "text": "Da hast du recht Aber verstehst du es nicht Bärbelchen ist noch So jung, wenn sie nicht geheiratet wird, wird sie von der Gesellschaft verstoßen und steht allein da mit dem Kind." },
-        { "actor":16, "text": "Dann hätte sie sich nicht schwängern lassen dürfen" },
-        { "actor":7,  "text": "Aber das ist doch nicht nur ihre Schuld, dazu gehören immer zweie" },
-        { "actor":16, "text": "Ja, doch sie ist die Frau. Sie hätte es besser wissen müssen. Da kann man kein Mitleid haben. So ein Flittchen Ich muss jetzt gehen." }
-      ]
-    },
-
-    {
-      "label": "Szene Nacht. Straße vor Gretchens Türe",
-      "text": [
-        { "actor":4, "text": "Ach, was für eine laue Nacht. Da singt sich’s doch gleich bessere" },
-        { "actor":15, "text": "Was läuft hier Worum geht’s Irgendwas stimmt hier nicht.Es geht um Gretchen, oder Was habt ihr mit ihr gemacht" },
-        { "actor":6, "text": "Ähm... das ist nicht, wie du denkst.." },
-        { "actor":15, "text": "Schluss mit dem Gerede Ich lass das nicht auf mir sitzen. Kommt her, wenn ihr euch traut" },
-        { "actor":4, "text": "Mach’s kurz, Faust. Los, tu es." },
-        { "actor":8, "text": "Gott im Himmel, was ist hier passiert" },
-        { "actor":7, "text": "Valentin Oh mein Gott, was ist mit dir" },
-        { "actor":15, "text": "Gretchen... du... hast gesündigt. Du hast alles zerstört. Ich sterbe... und das ist deine Schuld." }
-      ]
-    },
-
-    {
-      "label": "Szene Nachbarin Haus",
-      "text": [
-        { "actor":8, "text": "Ach, Gretchen Ich weiß einfach nicht mehr weiter. Mein Mann ist weg, und ich habe keine Ahnung, wo er ist. Ob er noch lebt oder längst tot ist. Was soll ich bloß machen" },
-        { "actor":7, "text": "Das ist wirklich schlimm, Marthe. Aber weißt du, ich habe etwas gefunden... Schmuck Ganz tollen Schmuck" },
-        { "actor":8, "text": "Oh, das klingt wunderbar Aber sag deiner Mutter lieber nichts davon. Sie würde es dir nur wegnehmen. Trag ihn heimlich, hier bei mir." },
-        { "actor":4, "text": "Guten Tag, Frau Marthe. Ich habe leider schlechte Nachrichten für Sie. Ihr Mann ist tot." },
-        { "actor":8, "text": "Tot Oh Gott Das... das trifft mich hart. Aber... ist wirklich kein Erbe für mich da" },
-        { "actor":4, "text": "Leider nein. Aber ich muss sagen, es ist mir eine Freude, Ihnen zu begegnen." },
-        { "actor":8, "text": "Ach, Herr Mephisto, Sie sind so charmant" },
-        { "actor":4, "text": "Übrigens, Gretchen, Faust, mein Freund, hat großes Interesse an dir. Er würde dich gerne kennenlernen." },
-        { "actor":8, "text": "Dann kommt doch heute Abend in meinen Garten Ihr könnt euch dort treffen. Faust und Sie, Herr Mephisto, sind herzlich eingeladen" },
-        { "actor":7, "text": "Oh, das klingt... spannend." }
-      ]
-    },
-
-    {
-      "label": "Szene Straße",
-      "text": [
-        { "actor":6, "text": "Mein schönes Fräulein darf ich es wagen Darf ich Sie nach Hause begleiten" },
-        { "actor":7, "text": "Neiiiiiin Danke, aber das schaﬀe ich allein" },
-        { "actor":6, "text": "So etwas Schönes wie sie habe ich noch nie gesehen Ich möchte in ihren wunderschönen Augen versinken, ich sehne mich nach ihren vollen Lippen und möchte mich in ihren wunderbaren Haaren verlieren. Alle Tage auf dieser Welt haben ohne sie keinen Sinn mehr Ich will sie Aber das wird nicht leicht. Wie kurz sie doch angebunden war, wie unschuldig sie wirkte." },
-        { "actor":6, "text": "Ey, kannst du mir eine Nummer klar machen " },
-        { "actor":4, "text": "Von wem" },
-        { "actor":6, "text": "Von diesem wunderbaren Geschöpf, sie ging gerade hier vorbei. " },
-        { "actor":4, "text": "Die dort vorn Oh je, die ist so gläubig, über sie habe ich keine Gewalt " },
-        { "actor":6, "text": "Doch, ich will sie Sie ist bestimmt schon 16 Jahre alt." },
-        { "actor":4, "text": "Weißt du, du erinnerst mich an Falco, der hat auch jeder hinterher geschaut." },
-        { "actor":6, "text": "Jetzt hör mir mal genau zu Wenn ich sie heute nicht sehe, dann war es das mit uns" },
-        { "actor":4, "text": "Aber bedenke doch, was ich da alles regeln muss. Da benötige ich etwas mehr Zeit." },
-        { "actor":6, "text": "Ich habe aber keine Zeit, was braucht denn der Teufel alles dafür, um eine junge Dame zu verführen" },
-        { "actor":4, "text": "Du sprichst schon wie eine Lusche " },
-        { "actor":6, "text": "Ich will sie. Ich habe so Lust auf sie." },
-        { "actor":4, "text": "Jetzt ohne Schimpf und ohne Spaß, ich sag euch, mit dem schönen Kind gehts ein für allemal nicht geschwind, also es ist nicht so einfach" },
-        { "actor":6, "text": "Ich bin spitz, wie ein Rettig" },
-        { "actor":4, "text": "Juti, ich habe es verstanden. Ich führe dich heute noch in ihr Zimmer." },
-        { "actor":6, "text": "Also gehen wir heute hin" },
-        { "actor":4, "text": "Nein Sie ist bestimmt bei ihrer Nachbarin " },
-        { "actor":6, "text": "Okay….Mmh, können wir trotzdem hin" }
-      ]
-    },
-
-    {
-      "label": "Szene vor dem Tor",
-      "text": [
-        { "actor":9,  "text": "Wo wollen wir hin" },
-        { "actor":10, "text": "Wollen wir zur Mühle wandern" },
-        { "actor":9,  "text": "Lasst uns zum Burghof gehen, da gibt es das beste Bier und die schönsten Mädchen Sie gehen zum Stehtisch und trinken. Die Kinder kommen auf die Bühne und machen Ringel reihe und spielen. Die Mädels unterhalten sich" },
-        { "actor":12, "text": "Die Sonne scheint so warm. Lass uns in die Stadt gehen." },
-        { "actor":13, "text": "Schau doch, da sind schöne Knaben Lass uns hier bleiben" },
-        { "actor":12, "text": "Na gut. Dann bleiben wir eben hier. (Sie vergnügen sich an der Stimmung.)Trinken mit Wein in der Runde" },
-        { "actor":14, "text": "Es ist schön mit euch spazieren zu gehen. Schau nur wie glücklich die Menschen sind" },
-        { "actor":9,  "text": "Herr Doktor, es ist schön, auch euch hier zu treﬀen Trinkt ein Bier mit uns" },
-        { "actor":6,  "text": "Ich nehme den Erquickungstrank sehr gern, bitte auch für meinen Studenten" },
-        { "actor":14, "text": "Wenn du, als Jüngling, deinen Vater ehrst, so wird er sich immer freuen, dich zu sehen, Wenn du als Mann die Wissenschaft weiter nach vorn bringst, kannst du deinen Sohn zu Höheren Zielen führen." },
-        { "actor":6,  "text": "Was man nicht weiß, dass bräuchte man, was man weiß, das bräuchte man eben nicht Oh je, zwei Seelen wohnen, ach In meiner Brust. Die eine will sich von der anderen trennen, die eine hält, in derber Liebeslust, sich an die Welt mitklammernden Organen, die andere hebt gewaltsam sich vom Dust zu den Gefilden hoher Ahnen. Oh gibt es Geister in der Luft" },
-        { "actor":14, "text": "Das kann ich nicht sagen, aber haben Sie den Hund bemerkt " },
-        { "actor":6,  "text": "Jagt er uns Mir scheint, als zieht er magische Schlingen um uns." },
-        { "actor":14, "text": "Er wackelt mit seinem Schwanz Das ist ein normales Verhalten für einen Hund. Seht es ist ein schwarzer Pudel" },
-        { "actor":6,  "text": "Du hast wohl recht Ich sehe Gespenster, wo keine sind" }
-      ]
-    },
-
-    {
-      "label": "Szene Kerker",
-      "text": [
-        { "actor":6, "text": "Gretchen, ich bin's Ich habe die Schlüssel zu deinem Kerker. Ich kann dich hier nicht länger einsperren lassen" },
-        { "actor":7, "text": "Wer da Wer stört mich in meinem Elend" },
-        { "actor":6, "text": "Es ist Faust, der dich kommen hören wollte Hör auf zu singen, ich bin hier, um dich zu retten" },
-        { "actor":7, "text": "Faust Ist das wirklich du Oder bist du der Henker, der gekommen ist, um mir den letzten Schlag zu versetzen" },
-        { "actor":6, "text": "Nein, ich bin es, der dich liebt Komm mit mir, lass uns zusammen fliehen und ein neues Leben anfangen, weit weg von diesem Ort des Schmerzes" },
-        { "actor":7, "text": "Fliehen Denkst du, ich habe nicht genug für dich getan Du weißt, dass meine Mutter gestorben ist, damit ich mit dir zusammen sein kann. Und mein Bruder... er starb durch deinen Degen, Faust" },
-        { "actor":6, "text": "Ich liebe dich, Gretchen Ich wollte dir nie weh tun. Lass uns alles hinter uns lassen, ich kann nicht ohne dich leben" },
-        { "actor":7, "text": "Nein, Faust. Ich sehe dich nicht mehr als meinen Geliebten. Du hast mich in diese Lage gebracht. Ich kann nicht für immer in Sünde leben und das Kind in mir ignorieren." },
-        { "actor":6, "text": "Aber wir können alles hinter uns lassen Wir könnten ein neues Leben beginnen, ich schwöre dir, alles wird besser" },
-        { "actor":7, "text": "Ich muss mich meinem Schicksal stellen. Ich habe meine Fehler erkannt und tue Buße für all das. Die Flucht ist keine Lösung für das, was geschehen ist. Ich kann nicht mit dir in die Dunkelheit fliehen.e" },
-        { "actor":6, "text": "Gretchen, bitte Du kannst das nicht ernst meinen" },
-        { "actor":7, "text": "Lass mich in Frieden. Ich habe mein Urteil gefällt und werde die Konsequenzen tragen. Vielleicht wird Gott mich erhören und mir Vergebung schenken, wenn ich mein Leben so lebe, wie es sein sollte." }
-      ]
-    },
-
-    {
-      "label": "Szene Marthes Garten",
-      "text": [
-        { "actor":6, "text": "Gretchen, seit dem Moment, als ich dich das erste Mal sah, hat sich in mir alles verändert. Ich kann an nichts anderes mehr denken als an dich. Du hast mein Herz erobert." },
-        { "actor":7, "text": "Faust, ich spüre das Gleiche. Aber mein Leben ist schwierig. Ich habe so viel Verantwortung. Ich arbeite den ganzen Tag, helfe im Haus und kümmere mich um meine Mutter und meinen Bruder. Meine Familie zählt nur noch auf mich." },
-        { "actor":6, "text": "Das muss schwer sein, so viel zu tragen. Aber ich bewundere dich noch mehr dafür. Du bist so stark und so gu" },
-        { "actor":7, "text": "Manchmal ist es wirklich viel. Meine Mutter ist streng und erwartet viel von mir. Und mein Bruder... er ist oft weg beim Militär, also bleibt alles an mir hängen. Manchmal wünsche ich mir, ich hätte ein anderes Leben, mehr Freiheit." },
-        { "actor":6, "text": "Vielleicht kann ich dir helfen, das Leben zu leben, das du dir wünschst. Ich würde alles für dich tun, Gretchen." },
-        { "actor":7, "text": "Das bedeutet mir viel, Faust. Ich habe noch nie jemanden wie dich getroffen." },
-        { "actor":8, "text": "Mephisto, du bist so ein interessanter Mann. Weißt du, nach allem, was ich durchgemacht habe, fühle ich, dass ich bereit bin für einen neuen Abschnitt in meinem Leben. Mein Mann ist tot, und jetzt kann ich vielleicht wieder an eine Ehe denken." },
-        { "actor":4, "text": "Es ist schwer, so etwas zu verarbeiten, Frau Marthe. Doch Sie sind eine Frau, die weiß, was sie will." },
-        { "actor":8, "text": "Ja, das stimmt. Ich habe schon immer gewusst, wie ich meinen Platz in der Gesellschaft finde. Und ich muss sagen, ein Mann wie du könnte gut zu mir passen." },
-        { "actor":4, "text": "Ach, Frau Marthe, Sie übertreiben. Ich bin nicht der Richtige für solche Überlegungen." },
-        { "actor":8, "text": "Wirklich Du wirkst auf mich wie ein Mann, der viel zu bieten hat. Und nach all dem, was passiert ist, denke ich, dass ich bereit bin, ein neues Kapitel zu beginnen." },
-        { "actor":4, "text": "Ein neues Kapitel vielleicht, aber nicht mit mir." },
-        { "actor":8, "text": "Nun, wir werden sehen, Mephisto. Vielleicht ändert sich deine Meinung noch." },
-        { "actor":6, "text": "Gretchen, ich möchte dich wiedersehen, so oft ich kann." },
-        { "actor":7, "text": "Ich würde das auch gerne, Faust. Aber es ist alles so kompliziert. Meine Mutter würde es nie erlauben" },
-        { "actor":6, "text": "Dann finden wir einen Weg. Nichts soll uns aufhalten." },
-        { "actor":7, "text": "Vielleicht... vielleicht finden wir wirklich einen Weg." }
-      ]
-    },
-
-    {
-      "label": "Szene Hexenküche",
-      "text": [
-        { "actor":23, "text": "Wir kochen Suppe für die Armen. " },
-        { "actor":4, "text": "Ihr habt ein großes Publikum" },
-        { "actor":24, "text": "Mach mich reich und lass mich gewinnen" },
-        { "actor":4, "text": "Wie glücklich würde sich der Aﬀe schätzen Was soll das Sieb" },
-        { "actor":24, "text": "Schau durch das Sieb Dann siehst du den Dieb. Der alberne Tropf kennt den Kessel nicht" },
-        { "actor":4, "text": "Unhöfliches Vieh " },
-        { "actor":24, "text": "Setz dich in den Sessel" },
-        { "actor":6, "text": "Was zur Hölle sehe ich da So ein himmlisches Bild von Einer Göttin Ich werde hier verrückt" },
-        { "actor":25, "text": "Au,au,au Verdammtes Vieh Du verfluchte Sau Versäumst den Kessel zu rühren Verfluchtes Vieh -  Was soll das hier Du musst verstehen Aus eins mach Zehn, und zwei lass gehen, und drei mach gleich, so bist du reich. Verlier die Vier Aus fünf mach sechs, so sagt die Hex, mach sieben und acht, so ists vollbracht, und Neun ist eins, und zehn ist keins. Das ist das Hexen 1x1" },
-        { "actor":6, "text": "Was soll das sein" },
-        { "actor":4, "text": "So du Wahrsagerin, hier ist das Glas-fülle es" },
-        { "actor":25, "text": "Wo sind denn eure beiden Raben Sinn und Verstand verliere ich hier" },
-        { "actor":4, "text": "Weib, ich verlange von euch nur ein Glas vom altbekannten Saft" },
-        { "actor":25, "text": "Gern Hier habe ich eine Flasche, von der ich selbst gern nasche" },
-        { "actor":6, "text": "Was soll dieses Schauspiel hier So kenne ich dich gar nicht Sei nicht so ein Strenger Mann" },
-        { "actor":25, "text": "Hier ist ein besonderer Trank für dich. Wenn du das Lied singst, wirst du seine besondere Wirkung spüren." },
-        { "actor":6, "text": "Oh, ich spüre, wie eine ungewohnte Wärme durch meinen Körper rauscht. Ich fühle mich So anders. Wo ist ein Spiegel " },
-        { "actor":4, "text": "Du siehst mit diesem Trank im Leibe, bald Helenen in jedem Leibe." }
-      ]
-    },
-
-    {
+  {
+    "label": "Szene Nacht 1",
+    "text": [
+      {
+        "actor": 1,
+        "text": "Die Sonne gibt den Engeln Stärke"
+      },
+      {
+        "actor": 2,
+        "text": "Es leuchtet alles so nett"
+      },
+      {
+        "actor": 3,
+        "text": "Ja, es wird ein schöner Tag"
+      },
+      {
+        "actor": 4,
+        "text": "Grüsse Dich Herr, eigentlich mögen wir uns ja, freu dich doch mal mich zu sehen, immerhin bin ich hier, weil es mir auf denSack geht, wie Die Menschen nur noch am heulen sind, so ätzend dieses Volk "
+      },
+      {
+        "actor": 5,
+        "text": "Hast Du mir nichts anderes zu sagen  Musst Du mich schon wieder mit den Menschen nerven "
+      },
+      {
+        "actor": 4,
+        "text": "Nein  Da unten ist es nur ätzend "
+      },
+      {
+        "actor": 5,
+        "text": "Kennst Du den Faust "
+      },
+      {
+        "actor": 4,
+        "text": "Den alten Doktor "
+      },
+      {
+        "actor": 5,
+        "text": "Meinen Knecht"
+      },
+      {
+        "actor": 4,
+        "text": "Genau der, der ist voll dein Sklave, der nervt voll, der woll immer mehr Wissen und kann nur fordern"
+      },
+      {
+        "actor": 5,
+        "text": "Ich werde Ihn bald mit Wissen erleuchten"
+      },
+      {
+        "actor": 4,
+        "text": "Wollen wir wetten, dass ich ihn auf meine Seite ziehen kann "
+      },
+      {
+        "actor": 5,
+        "text": "Du kannst machen, was Du willst, solange Du auf Erden bist"
+      },
+      {
+        "actor": 4,
+        "text": "Das ist nett von Dir, denn ich kann wohl schlecht mit toten labern, kann ich zwar schon, aber das stresst mich"
+      },
+      {
+        "actor": 5,
+        "text": "Dann versuch es halt ihn auf deine Seite zu kriegen. DU wirst wohl schlecht mit toten labern, kann ich zwar schon, aber stresst mich"
+      },
+      {
+        "actor": 4,
+        "text": "Ist schon okay, wird nicht lange dauern, ich habe keine Angst vor dieser Welt. Er soll richtig leiden"
+      }
+    ]
+  },
+  {
+    "label": "Szene Auerbachs Keller",
+    "text": [
+      {
+        "actor": 19,
+        "text": "Man wollt Ihr nicht trinken Sonst sauft ihr euch doch auch die Birne weg"
+      },
+      {
+        "actor": 20,
+        "text": "Dann bring uns was zu saufen, Kumpel"
+      },
+      {
+        "actor": 19,
+        "text": "Da hast du es"
+      },
+      {
+        "actor": 20,
+        "text": "Hast du jetzt voll einen weg "
+      },
+      {
+        "actor": 19,
+        "text": "Wolltest es doch - pech "
+      },
+      {
+        "actor": 21,
+        "text": "So Freunde Ex oder Wessi"
+      },
+      {
+        "actor": 22,
+        "text": "Halt endlich mal dein Maul"
+      },
+      {
+        "actor": 21,
+        "text": "Wenn du das nochmal sagst , kriegste eine"
+      },
+      {
+        "actor": 19,
+        "text": "Genau verschwinde, Junge"
+      },
+      {
+        "actor": 20,
+        "text": "Ich hoffe wir finden heute noch hübsche Frauen"
+      },
+      {
+        "actor": 19,
+        "text": "Ohh ja"
+      },
+      {
+        "actor": 21,
+        "text": "könnt Ihr vergesse"
+      },
+      {
+        "actor": 19,
+        "text": "Du kannst mich nicht aufhalten"
+      },
+      {
+        "actor": 21,
+        "text": "Meine alte hatte afm Blockberg neuen Bock aufgerissen"
+      },
+      {
+        "actor": 4,
+        "text": "Du musst auch mal raus aus deiner Höhle und endlich Spass im Leben haben"
+      },
+      {
+        "actor": 20,
+        "text": "Das sind doch Hinterwäldler"
+      }
+    ]
+  },
+  {
+    "label": "Szene Nacht",
+    "text": [
+      {
+        "actor": 6,
+        "text": "Ich bin Doktor,Magister und fürchte mich vor nichts. Ich strebte mein ganzes Leben schon nach Wissen"
+      },
+      {
+        "actor": 6,
+        "text": "Da hilft nur noch Magie"
+      },
+      {
+        "actor": 6,
+        "text": "OhDu bist aber besonders hässlich"
+      },
+      {
+        "actor": 17,
+        "text": "Also zuerst beschwörst du mich in diesen Saftladen und dann nennst du mich hässlichDas ist eine Unverschämtheit, hast du jemals selbst in den Spiegel geblickt oder ist der Spiegel davor schon zerbrochenIch mach gar nichts für dich, bye-bye"
+      },
+      {
+        "actor": 6,
+        "text": "Scheiße, dieses dumme Miststück"
+      },
+      {
+        "actor": 6,
+        "text": "Ugh,das muss mein Schüler sein."
+      },
+      {
+        "actor": 14,
+        "text": "Geht es ihnen gutIch habe Stimmen aus ihrem Haus wahrgenommen,aber Sie gucken wahrscheinlich gerade nur GZSZ"
+      },
+      {
+        "actor": 6,
+        "text": "Ja,das ist richtig und jetzt verschwinde"
+      },
+      {
+        "actor": 14,
+        "text": "Okay,ich geh ja schon,bis dann"
+      },
+      {
+        "actor": 6,
+        "text": "Mein Leben ist wertlos und selbst der Erdgeist hat mich abgelehnt.Es ist Zeit meinem Leben ein Ende zu setzen mit diesem Gift"
+      },
+      {
+        "actor": 18,
+        "text": "Jesus hat sich geopfert für euch Menschen auf Erden.Der Herr sehnt dein Ende noch nicht herbei. Lebe Faust,dein Leben hat noch einen Sinn"
+      },
+      {
+        "actor": 6,
+        "text": ":Oh...der Klang der Osterglocken,ich erinnere mich.Ihr habt recht,mein Leben hat noch einen Sinn"
+      },
+      {
+        "actor": 18,
+        "text": "Wir werden immer über dich wachen,Faust"
+      }
+    ]
+  },
+  {
+    "label": "Szene Am Brunnen",
+    "text": [
+      {
+        "actor": 16,
+        "text": "Hast du schon das von Bärbelchen gehört"
+      },
+      {
+        "actor": 7,
+        "text": "Nee, habe ich nicht Ich bin ja gar nicht mehr unter Leuten. "
+      },
+      {
+        "actor": 16,
+        "text": "Sie hat es mir vorhin auf dem Marktplatz erzählt."
+      },
+      {
+        "actor": 7,
+        "text": "Ach Mensch, die Arme Wird sie auch den Vater des Kindes heiraten"
+      },
+      {
+        "actor": 16,
+        "text": "Wieso die Arme Da versteht ich dich nicht Die ist doch selbst schuld an diesem Umstand"
+      },
+      {
+        "actor": 7,
+        "text": "Da hast du recht Aber verstehst du es nicht Bärbelchen ist noch So jung, wenn sie nicht geheiratet wird, wird sie von der Gesellschaft verstoßen und steht allein da mit dem Kind."
+      },
+      {
+        "actor": 16,
+        "text": "Dann hätte sie sich nicht schwängern lassen dürfen"
+      },
+      {
+        "actor": 7,
+        "text": "Aber das ist doch nicht nur ihre Schuld, dazu gehören immer zweie"
+      },
+      {
+        "actor": 16,
+        "text": "Ja, doch sie ist die Frau. Sie hätte es besser wissen müssen. Da kann man kein Mitleid haben. So ein Flittchen Ich muss jetzt gehen."
+      }
+    ]
+  },
+  {
+    "label": "Szene Nacht. Straße vor Gretchens Türe",
+    "text": [
+      {
+        "actor": 4,
+        "text": "Ach, was für eine laue Nacht. Da singt sich’s doch gleich bessere"
+      },
+      {
+        "actor": 15,
+        "text": "Was läuft hier Worum geht’s Irgendwas stimmt hier nicht.Es geht um Gretchen, oder Was habt ihr mit ihr gemacht"
+      },
+      {
+        "actor": 6,
+        "text": "Ähm... das ist nicht, wie du denkst.."
+      },
+      {
+        "actor": 15,
+        "text": "Schluss mit dem Gerede Ich lass das nicht auf mir sitzen. Kommt her, wenn ihr euch traut"
+      },
+      {
+        "actor": 4,
+        "text": "Mach’s kurz, Faust. Los, tu es."
+      },
+      {
+        "actor": 8,
+        "text": "Gott im Himmel, was ist hier passiert"
+      },
+      {
+        "actor": 7,
+        "text": "Valentin Oh mein Gott, was ist mit dir"
+      },
+      {
+        "actor": 15,
+        "text": "Gretchen... du... hast gesündigt. Du hast alles zerstört. Ich sterbe... und das ist deine Schuld."
+      }
+    ]
+  },
+  {
+    "label": "Szene Nachbarin Haus",
+    "text": [
+      {
+        "actor": 8,
+        "text": "Ach, Gretchen Ich weiß einfach nicht mehr weiter. Mein Mann ist weg, und ich habe keine Ahnung, wo er ist. Ob er noch lebt oder längst tot ist. Was soll ich bloß machen"
+      },
+      {
+        "actor": 7,
+        "text": "Das ist wirklich schlimm, Marthe. Aber weißt du, ich habe etwas gefunden... Schmuck Ganz tollen Schmuck"
+      },
+      {
+        "actor": 8,
+        "text": "Oh, das klingt wunderbar Aber sag deiner Mutter lieber nichts davon. Sie würde es dir nur wegnehmen. Trag ihn heimlich, hier bei mir."
+      },
+      {
+        "actor": 4,
+        "text": "Guten Tag, Frau Marthe. Ich habe leider schlechte Nachrichten für Sie. Ihr Mann ist tot."
+      },
+      {
+        "actor": 8,
+        "text": "Tot Oh Gott Das... das trifft mich hart. Aber... ist wirklich kein Erbe für mich da"
+      },
+      {
+        "actor": 4,
+        "text": "Leider nein. Aber ich muss sagen, es ist mir eine Freude, Ihnen zu begegnen."
+      },
+      {
+        "actor": 8,
+        "text": "Ach, Herr Mephisto, Sie sind so charmant"
+      },
+      {
+        "actor": 4,
+        "text": "Übrigens, Gretchen, Faust, mein Freund, hat großes Interesse an dir. Er würde dich gerne kennenlernen."
+      },
+      {
+        "actor": 8,
+        "text": "Dann kommt doch heute Abend in meinen Garten Ihr könnt euch dort treffen. Faust und Sie, Herr Mephisto, sind herzlich eingeladen"
+      },
+      {
+        "actor": 7,
+        "text": "Oh, das klingt... spannend."
+      }
+    ]
+  },
+  {
+    "label": "Szene Straße",
+    "text": [
+      {
+        "actor": 6,
+        "text": "Mein schönes Fräulein darf ich es wagen Darf ich Sie nach Hause begleiten"
+      },
+      {
+        "actor": 7,
+        "text": "Neiiiiiin Danke, aber das schaﬀe ich allein"
+      },
+      {
+        "actor": 6,
+        "text": "So etwas Schönes wie sie habe ich noch nie gesehen Ich möchte in ihren wunderschönen Augen versinken, ich sehne mich nach ihren vollen Lippen und möchte mich in ihren wunderbaren Haaren verlieren. Alle Tage auf dieser Welt haben ohne sie keinen Sinn mehr Ich will sie Aber das wird nicht leicht. Wie kurz sie doch angebunden war, wie unschuldig sie wirkte."
+      },
+      {
+        "actor": 6,
+        "text": "Ey, kannst du mir eine Nummer klar machen "
+      },
+      {
+        "actor": 4,
+        "text": "Von wem"
+      },
+      {
+        "actor": 6,
+        "text": "Von diesem wunderbaren Geschöpf, sie ging gerade hier vorbei. "
+      },
+      {
+        "actor": 4,
+        "text": "Die dort vorn Oh je, die ist so gläubig, über sie habe ich keine Gewalt "
+      },
+      {
+        "actor": 6,
+        "text": "Doch, ich will sie Sie ist bestimmt schon 16 Jahre alt."
+      },
+      {
+        "actor": 4,
+        "text": "Weißt du, du erinnerst mich an Falco, der hat auch jeder hinterher geschaut."
+      },
+      {
+        "actor": 6,
+        "text": "Jetzt hör mir mal genau zu Wenn ich sie heute nicht sehe, dann war es das mit uns"
+      },
+      {
+        "actor": 4,
+        "text": "Aber bedenke doch, was ich da alles regeln muss. Da benötige ich etwas mehr Zeit."
+      },
+      {
+        "actor": 6,
+        "text": "Ich habe aber keine Zeit, was braucht denn der Teufel alles dafür, um eine junge Dame zu verführen"
+      },
+      {
+        "actor": 4,
+        "text": "Du sprichst schon wie eine Lusche "
+      },
+      {
+        "actor": 6,
+        "text": "Ich will sie. Ich habe so Lust auf sie."
+      },
+      {
+        "actor": 4,
+        "text": "Jetzt ohne Schimpf und ohne Spaß, ich sag euch, mit dem schönen Kind gehts ein für allemal nicht geschwind, also es ist nicht so einfach"
+      },
+      {
+        "actor": 6,
+        "text": "Ich bin spitz, wie ein Rettig"
+      },
+      {
+        "actor": 4,
+        "text": "Juti, ich habe es verstanden. Ich führe dich heute noch in ihr Zimmer."
+      },
+      {
+        "actor": 6,
+        "text": "Also gehen wir heute hin"
+      },
+      {
+        "actor": 4,
+        "text": "Nein Sie ist bestimmt bei ihrer Nachbarin "
+      },
+      {
+        "actor": 6,
+        "text": "Okay….Mmh, können wir trotzdem hin"
+      }
+    ]
+  },
+  {
+    "label": "Szene vor dem Tor",
+    "text": [
+      {
+        "actor": 9,
+        "text": "Wo wollen wir hin"
+      },
+      {
+        "actor": 10,
+        "text": "Wollen wir zur Mühle wandern"
+      },
+      {
+        "actor": 9,
+        "text": "Lasst uns zum Burghof gehen, da gibt es das beste Bier und die schönsten Mädchen Sie gehen zum Stehtisch und trinken. Die Kinder kommen auf die Bühne und machen Ringel reihe und spielen. Die Mädels unterhalten sich"
+      },
+      {
+        "actor": 12,
+        "text": "Die Sonne scheint so warm. Lass uns in die Stadt gehen."
+      },
+      {
+        "actor": 13,
+        "text": "Schau doch, da sind schöne Knaben Lass uns hier bleiben"
+      },
+      {
+        "actor": 12,
+        "text": "Na gut. Dann bleiben wir eben hier. (Sie vergnügen sich an der Stimmung.)Trinken mit Wein in der Runde"
+      },
+      {
+        "actor": 14,
+        "text": "Es ist schön mit euch spazieren zu gehen. Schau nur wie glücklich die Menschen sind"
+      },
+      {
+        "actor": 9,
+        "text": "Herr Doktor, es ist schön, auch euch hier zu treﬀen Trinkt ein Bier mit uns"
+      },
+      {
+        "actor": 6,
+        "text": "Ich nehme den Erquickungstrank sehr gern, bitte auch für meinen Studenten"
+      },
+      {
+        "actor": 14,
+        "text": "Wenn du, als Jüngling, deinen Vater ehrst, so wird er sich immer freuen, dich zu sehen, Wenn du als Mann die Wissenschaft weiter nach vorn bringst, kannst du deinen Sohn zu Höheren Zielen führen."
+      },
+      {
+        "actor": 6,
+        "text": "Was man nicht weiß, dass bräuchte man, was man weiß, das bräuchte man eben nicht Oh je, zwei Seelen wohnen, ach In meiner Brust. Die eine will sich von der anderen trennen, die eine hält, in derber Liebeslust, sich an die Welt mitklammernden Organen, die andere hebt gewaltsam sich vom Dust zu den Gefilden hoher Ahnen. Oh gibt es Geister in der Luft"
+      },
+      {
+        "actor": 14,
+        "text": "Das kann ich nicht sagen, aber haben Sie den Hund bemerkt "
+      },
+      {
+        "actor": 6,
+        "text": "Jagt er uns Mir scheint, als zieht er magische Schlingen um uns."
+      },
+      {
+        "actor": 14,
+        "text": "Er wackelt mit seinem Schwanz Das ist ein normales Verhalten für einen Hund. Seht es ist ein schwarzer Pudel"
+      },
+      {
+        "actor": 6,
+        "text": "Du hast wohl recht Ich sehe Gespenster, wo keine sind"
+      }
+    ]
+  },
+  {
+    "label": "Szene Kerker",
+    "text": [
+      {
+        "actor": 6,
+        "text": "Gretchen, ich bin's Ich habe die Schlüssel zu deinem Kerker. Ich kann dich hier nicht länger einsperren lassen"
+      },
+      {
+        "actor": 7,
+        "text": "Wer da Wer stört mich in meinem Elend"
+      },
+      {
+        "actor": 6,
+        "text": "Es ist Faust, der dich kommen hören wollte Hör auf zu singen, ich bin hier, um dich zu retten"
+      },
+      {
+        "actor": 7,
+        "text": "Faust Ist das wirklich du Oder bist du der Henker, der gekommen ist, um mir den letzten Schlag zu versetzen"
+      },
+      {
+        "actor": 6,
+        "text": "Nein, ich bin es, der dich liebt Komm mit mir, lass uns zusammen fliehen und ein neues Leben anfangen, weit weg von diesem Ort des Schmerzes"
+      },
+      {
+        "actor": 7,
+        "text": "Fliehen Denkst du, ich habe nicht genug für dich getan Du weißt, dass meine Mutter gestorben ist, damit ich mit dir zusammen sein kann. Und mein Bruder... er starb durch deinen Degen, Faust"
+      },
+      {
+        "actor": 6,
+        "text": "Ich liebe dich, Gretchen Ich wollte dir nie weh tun. Lass uns alles hinter uns lassen, ich kann nicht ohne dich leben"
+      },
+      {
+        "actor": 7,
+        "text": "Nein, Faust. Ich sehe dich nicht mehr als meinen Geliebten. Du hast mich in diese Lage gebracht. Ich kann nicht für immer in Sünde leben und das Kind in mir ignorieren."
+      },
+      {
+        "actor": 6,
+        "text": "Aber wir können alles hinter uns lassen Wir könnten ein neues Leben beginnen, ich schwöre dir, alles wird besser"
+      },
+      {
+        "actor": 7,
+        "text": "Ich muss mich meinem Schicksal stellen. Ich habe meine Fehler erkannt und tue Buße für all das. Die Flucht ist keine Lösung für das, was geschehen ist. Ich kann nicht mit dir in die Dunkelheit fliehen.e"
+      },
+      {
+        "actor": 6,
+        "text": "Gretchen, bitte Du kannst das nicht ernst meinen"
+      },
+      {
+        "actor": 7,
+        "text": "Lass mich in Frieden. Ich habe mein Urteil gefällt und werde die Konsequenzen tragen. Vielleicht wird Gott mich erhören und mir Vergebung schenken, wenn ich mein Leben so lebe, wie es sein sollte."
+      }
+    ]
+  },
+  {
+    "label": "Szene Marthes Garten",
+    "text": [
+      {
+        "actor": 6,
+        "text": "Gretchen, seit dem Moment, als ich dich das erste Mal sah, hat sich in mir alles verändert. Ich kann an nichts anderes mehr denken als an dich. Du hast mein Herz erobert."
+      },
+      {
+        "actor": 7,
+        "text": "Faust, ich spüre das Gleiche. Aber mein Leben ist schwierig. Ich habe so viel Verantwortung. Ich arbeite den ganzen Tag, helfe im Haus und kümmere mich um meine Mutter und meinen Bruder. Meine Familie zählt nur noch auf mich."
+      },
+      {
+        "actor": 6,
+        "text": "Das muss schwer sein, so viel zu tragen. Aber ich bewundere dich noch mehr dafür. Du bist so stark und so gu"
+      },
+      {
+        "actor": 7,
+        "text": "Manchmal ist es wirklich viel. Meine Mutter ist streng und erwartet viel von mir. Und mein Bruder... er ist oft weg beim Militär, also bleibt alles an mir hängen. Manchmal wünsche ich mir, ich hätte ein anderes Leben, mehr Freiheit."
+      },
+      {
+        "actor": 6,
+        "text": "Vielleicht kann ich dir helfen, das Leben zu leben, das du dir wünschst. Ich würde alles für dich tun, Gretchen."
+      },
+      {
+        "actor": 7,
+        "text": "Das bedeutet mir viel, Faust. Ich habe noch nie jemanden wie dich getroffen."
+      },
+      {
+        "actor": 8,
+        "text": "Mephisto, du bist so ein interessanter Mann. Weißt du, nach allem, was ich durchgemacht habe, fühle ich, dass ich bereit bin für einen neuen Abschnitt in meinem Leben. Mein Mann ist tot, und jetzt kann ich vielleicht wieder an eine Ehe denken."
+      },
+      {
+        "actor": 4,
+        "text": "Es ist schwer, so etwas zu verarbeiten, Frau Marthe. Doch Sie sind eine Frau, die weiß, was sie will."
+      },
+      {
+        "actor": 8,
+        "text": "Ja, das stimmt. Ich habe schon immer gewusst, wie ich meinen Platz in der Gesellschaft finde. Und ich muss sagen, ein Mann wie du könnte gut zu mir passen."
+      },
+      {
+        "actor": 4,
+        "text": "Ach, Frau Marthe, Sie übertreiben. Ich bin nicht der Richtige für solche Überlegungen."
+      },
+      {
+        "actor": 8,
+        "text": "Wirklich Du wirkst auf mich wie ein Mann, der viel zu bieten hat. Und nach all dem, was passiert ist, denke ich, dass ich bereit bin, ein neues Kapitel zu beginnen."
+      },
+      {
+        "actor": 4,
+        "text": "Ein neues Kapitel vielleicht, aber nicht mit mir."
+      },
+      {
+        "actor": 8,
+        "text": "Nun, wir werden sehen, Mephisto. Vielleicht ändert sich deine Meinung noch."
+      },
+      {
+        "actor": 6,
+        "text": "Gretchen, ich möchte dich wiedersehen, so oft ich kann."
+      },
+      {
+        "actor": 7,
+        "text": "Ich würde das auch gerne, Faust. Aber es ist alles so kompliziert. Meine Mutter würde es nie erlauben"
+      },
+      {
+        "actor": 6,
+        "text": "Dann finden wir einen Weg. Nichts soll uns aufhalten."
+      },
+      {
+        "actor": 7,
+        "text": "Vielleicht... vielleicht finden wir wirklich einen Weg."
+      }
+    ]
+  },
+  {
+    "label": "Szene Hexenküche",
+    "text": [
+      {
+        "actor": 23,
+        "text": "Wir kochen Suppe für die Armen. "
+      },
+      {
+        "actor": 4,
+        "text": "Ihr habt ein großes Publikum"
+      },
+      {
+        "actor": 24,
+        "text": "Mach mich reich und lass mich gewinnen"
+      },
+      {
+        "actor": 4,
+        "text": "Wie glücklich würde sich der Aﬀe schätzen Was soll das Sieb"
+      },
+      {
+        "actor": 24,
+        "text": "Schau durch das Sieb Dann siehst du den Dieb. Der alberne Tropf kennt den Kessel nicht"
+      },
+      {
+        "actor": 4,
+        "text": "Unhöfliches Vieh "
+      },
+      {
+        "actor": 24,
+        "text": "Setz dich in den Sessel"
+      },
+      {
+        "actor": 6,
+        "text": "Was zur Hölle sehe ich da So ein himmlisches Bild von Einer Göttin Ich werde hier verrückt"
+      },
+      {
+        "actor": 25,
+        "text": "Au,au,au Verdammtes Vieh Du verfluchte Sau Versäumst den Kessel zu rühren Verfluchtes Vieh -  Was soll das hier Du musst verstehen Aus eins mach Zehn, und zwei lass gehen, und drei mach gleich, so bist du reich. Verlier die Vier Aus fünf mach sechs, so sagt die Hex, mach sieben und acht, so ists vollbracht, und Neun ist eins, und zehn ist keins. Das ist das Hexen 1x1"
+      },
+      {
+        "actor": 6,
+        "text": "Was soll das sein"
+      },
+      {
+        "actor": 4,
+        "text": "So du Wahrsagerin, hier ist das Glas-fülle es"
+      },
+      {
+        "actor": 25,
+        "text": "Wo sind denn eure beiden Raben Sinn und Verstand verliere ich hier"
+      },
+      {
+        "actor": 4,
+        "text": "Weib, ich verlange von euch nur ein Glas vom altbekannten Saft"
+      },
+      {
+        "actor": 25,
+        "text": "Gern Hier habe ich eine Flasche, von der ich selbst gern nasche"
+      },
+      {
+        "actor": 6,
+        "text": "Was soll dieses Schauspiel hier So kenne ich dich gar nicht Sei nicht so ein Strenger Mann"
+      },
+      {
+        "actor": 25,
+        "text": "Hier ist ein besonderer Trank für dich. Wenn du das Lied singst, wirst du seine besondere Wirkung spüren."
+      },
+      {
+        "actor": 6,
+        "text": "Oh, ich spüre, wie eine ungewohnte Wärme durch meinen Körper rauscht. Ich fühle mich So anders. Wo ist ein Spiegel "
+      },
+      {
+        "actor": 4,
+        "text": "Du siehst mit diesem Trank im Leibe, bald Helenen in jedem Leibe."
+      }
+    ]
+  },
+  {
     "label": "Szene Walpurgisnacht",
     "text": [
-      { "actor":4, "text": "Ich liebe es. Dafür würde ich glatt sterben - ach bin ich heute wieder witzig. All diese Weiber, sie warten alle auf mich. Was denkst welche soll ich zuerst nehmen. " },
-      { "actor":6, "text": "Das ist mir egal! Du machst sowieso was du willst! Was wollen diese eigenartigen Kreaturen der Unterwelt hier? Solche Gestalten kenne ich nur aus Büchern. Für wahr, es gibt sie wirklich. " },
-      { "actor":4, "text": "Weißt du nicht was heute ist? Heute ist die Nacht zum 1.Mai, da wird hier auf dem Blocksberg immer ne aﬀengeile Party gefeiert. Schau dich um, sie kommen alle wegen mir " },
-      { "actor":6, "text": "Oh ja, ich sehe Ziegenböcke, Hexer, Katzen und komische Wesen… die wollen sich alle! " },
-      { "actor":4, "text": "Nein du Idiot, wir wollen alle zusammen Spaß haben und Party machen. Also hab dich nicht so und komm mit ins Gewimmel!" },
-      { "actor":6, "text": "Naja, was habe ich zu verlieren.  " },
-      { "actor":6, "text": "Mephisto, Memphisto, Mephisto" },
-      { "actor":6, "text": "Schau da oben, siehst du mein Gretchen?. " },
-      { "actor":4, "text": "Ich sehe nichts! " },
-      { "actor":6, "text": "Doch, schau! Ich sehe ein blasses, schönes Kind, sie schiebt sich langsam nur vom Ort. Sie scheint mit geschlossenen Füßen zu gehen, Oh Gott. (Er nimmt die Hände vor sein Gesicht). " },
-      { "actor":4, "text": "Ich sehe nichts, dass bildest du dir ein! Das ist nur ein Zauberbild, ein Idol! " },
-      { "actor":6, "text": "Nein, Du irrst Dich, es sind ihre Augen. Die nun die Augen einer Toten sind.Das ist die Brust, die Gretchen mir geboten, das ist ihr Körper, der kurz mein ward" },
-      { "actor":6, "text": "Du Verräter, wegen dir! Was bist du nur für ein furchtbares Wesen! Du wusstest, dass dieses arme Geschöpf an diesem elenden Ort ist! Und du hast mir nichts gesagt! " },
-      { "actor":4, "text": "Sie wird nicht die letzte sein! Vergiss Sie! " },
-      { "actor":6, "text": "Nein, ich bin nicht wie du! Ich habe dieses wunderbare und reine Geschöpf doch erst in diese Lage gebracht! Wie kannst du so egoistisch sein? Ich bin ein Mensch, das kann ich Gretchen nicht antun. Ich muss sie retten. Nein, du rettest sie, oder ich…. " },
-      { "actor":4, "text": "Oder was? Ich kann das Urteil nicht widerrufen, bedenke du hast ihren Bruder umgebracht! " },
-      { "actor":6, "text": "Und das aus deinem Mund!!! Es ist alles egal, du führst mich jetzt zu ihr - das befehle ich Dir!" },
-      { "actor":4, "text": "Na gut du Idiot. Ich besorge die Schlüssel und bringe dich zu ihr, aber rausholen musst du sie. Ich warte dann so lange draußen mit meinen Zauberpferdchen." },
-      { "actor":6, "text": "Lets´s o!" },
+      {
+        "actor": 4,
+        "text": "Ich liebe es. Dafür würde ich glatt sterben - ach bin ich heute wieder witzig. All diese Weiber, sie warten alle auf mich. Was denkst welche soll ich zuerst nehmen. "
+      },
+      {
+        "actor": 6,
+        "text": "Das ist mir egal! Du machst sowieso was du willst! Was wollen diese eigenartigen Kreaturen der Unterwelt hier? Solche Gestalten kenne ich nur aus Büchern. Für wahr, es gibt sie wirklich. "
+      },
+      {
+        "actor": 4,
+        "text": "Weißt du nicht was heute ist? Heute ist die Nacht zum 1.Mai, da wird hier auf dem Blocksberg immer ne aﬀengeile Party gefeiert. Schau dich um, sie kommen alle wegen mir "
+      },
+      {
+        "actor": 6,
+        "text": "Oh ja, ich sehe Ziegenböcke, Hexer, Katzen und komische Wesen… die wollen sich alle! "
+      },
+      {
+        "actor": 4,
+        "text": "Nein du Idiot, wir wollen alle zusammen Spaß haben und Party machen. Also hab dich nicht so und komm mit ins Gewimmel!"
+      },
+      {
+        "actor": 6,
+        "text": "Naja, was habe ich zu verlieren.  "
+      },
+      {
+        "actor": 6,
+        "text": "Mephisto, Memphisto, Mephisto"
+      },
+      {
+        "actor": 6,
+        "text": "Schau da oben, siehst du mein Gretchen?. "
+      },
+      {
+        "actor": 4,
+        "text": "Ich sehe nichts! "
+      },
+      {
+        "actor": 6,
+        "text": "Doch, schau! Ich sehe ein blasses, schönes Kind, sie schiebt sich langsam nur vom Ort. Sie scheint mit geschlossenen Füßen zu gehen, Oh Gott. (Er nimmt die Hände vor sein Gesicht). "
+      },
+      {
+        "actor": 4,
+        "text": "Ich sehe nichts, dass bildest du dir ein! Das ist nur ein Zauberbild, ein Idol! "
+      },
+      {
+        "actor": 6,
+        "text": "Nein, Du irrst Dich, es sind ihre Augen. Die nun die Augen einer Toten sind.Das ist die Brust, die Gretchen mir geboten, das ist ihr Körper, der kurz mein ward"
+      },
+      {
+        "actor": 6,
+        "text": "Du Verräter, wegen dir! Was bist du nur für ein furchtbares Wesen! Du wusstest, dass dieses arme Geschöpf an diesem elenden Ort ist! Und du hast mir nichts gesagt! "
+      },
+      {
+        "actor": 4,
+        "text": "Sie wird nicht die letzte sein! Vergiss Sie! "
+      },
+      {
+        "actor": 6,
+        "text": "Nein, ich bin nicht wie du! Ich habe dieses wunderbare und reine Geschöpf doch erst in diese Lage gebracht! Wie kannst du so egoistisch sein? Ich bin ein Mensch, das kann ich Gretchen nicht antun. Ich muss sie retten. Nein, du rettest sie, oder ich…. "
+      },
+      {
+        "actor": 4,
+        "text": "Oder was? Ich kann das Urteil nicht widerrufen, bedenke du hast ihren Bruder umgebracht! "
+      },
+      {
+        "actor": 6,
+        "text": "Und das aus deinem Mund!!! Es ist alles egal, du führst mich jetzt zu ihr - das befehle ich Dir!"
+      },
+      {
+        "actor": 4,
+        "text": "Na gut du Idiot. Ich besorge die Schlüssel und bringe dich zu ihr, aber rausholen musst du sie. Ich warte dann so lange draußen mit meinen Zauberpferdchen."
+      },
+      {
+        "actor": 6,
+        "text": "Lets´s go!"
+      }
     ]
-    },
-
-    {
-      "label": "Szene Nacht 1",
-      "text": [
-        { "actor":6, "text": "Ich bin Doktor, Magister und fürchte mich vor nichts. Ich strebte mein ganzes Leben schon nach Wissen." },
-        { "actor":6, "text": "Da hilft nur noch Magie!" },
-        { "actor":6, "text": "Wow du bist aber besonders hässlich!" },
-        { "actor":19, "text": "Also zuerst beschwörst du mich in diesen Saftladen und dann nennst du mich hässlich? Das ist eine Unverschämtheit, hast du jemals selbst in den Spiegel geblickt oder ist der Spiegel davor schon zerbrochen? Ich mach Garnichts für dich, bye-bye!. " },
-        { "actor":6, "text": "Scheiße, dieses dumme Miststück! " },
-        { "actor":6, "text": "Ugh,das muss mein Schüler sein " }
-        { "actor":14, "text": "Geht es ihnen Gut? Ich habe Stimmen aus ihrem Haus wahrgenommen, aber Sie gucken wahrscheinlich gerade nur GZSZ. " },
-        { "actor":6, "text": "Ja,das ist richtig und jetzt verschwinde! " },
-        { "actor":14, "text": "Okay, ich geh ja schon, bis dann! " },
-        { "actor":6, "text": "„Mein Leben ist wertlos und selbst der Erdgeist hat mich abgelehnt. Es ist Zeit meinem Leben ein Ende zu setzen mit diesem Gift " },
-        { "actor":19, "text": "Jesus hat sich geopfert für euch Menschen auf Erden. Der Herr sehnt dein Ende noch nicht herbei. Lebe Faust, Dein Leben hat noch einen Sinn!. " },
-        { "actor":19, "text": "Das ist mir egal! Du machst sowieso was du willst! Was wollen diese eigenartigen Kreaturen der Unterwelt hier? Solche Gestalten kenne ich nur aus Büchern. Für wahr, es gibt sie wirklich. " },
-        { "actor":6, "text": "„Oh...der Klang der Osterglocken, ich erinnere mich. Ihr habt recht, mein Leben hat noch einen Sinn." },
-        { "actor":19, "text": "Wir werden immer über dich wachen, Faust " },
-      ]
- }       
-        "label": "Szene Studierzimmer",
-        "text": [
-        { "actor":6, "text": "Was ist denn hier los?! Das ist also deine wahre Gestalt, Köter!" },
-        { "actor":4, "text": "Nenn mich nicht Köter, nenn mich Mephisto und dazu noch ein Teufel! Wie wär’s mit ner Wette?" },
-        { "actor":6, "text": "Eine Wette mit dem Teufel? Kann es sein, dass du dumm bist oder so?" },
-        { "actor":4, "text": "Nee, pass mal auf! Du kriegst dafür auch so viel McCes wie du willst!" },    
-        { "actor":6, "text": "Also für McCes verkaufe ich mich jetzt nicht." },
-        { "actor":4, "text": "Verstehe, dann zeige ich dir Zeugs was noch kein Mensch davor gesehen hat" },
-        { "actor":6, "text": "Nah,danach strebe ich auch nicht, gib mir lieber noch Fortnite-Battlepass, Robux und ein hübsches Mädchen" },
-        { "actor":4, "text": "” Alles klar, aber dann will ich, dass du mir irgendwann dienst" },
-        { "actor":6, "text": "Von mir aus" },
-        { "actor":4, "text": "Gut, dann unterschreibe hier einmal mit Blut und ließ lieber nicht das Kleingedruckte" },
-        { "actor":6, "text": "Fertig" },
-        { "actor":4, "text": "Gut, ich weiß schon was wir als 1. machen" },
-      ]
-    }  
-        
-        "label": "Szene Gretchen Stube / Marthens Garten",
-        "text": [
-        { "actor":8, "text": "Ich habe keine Ruhe mehr und werde langsam verrückt. Ich schaue aus dem Fenster wegen ihn und Küsse ihn wie ich will" },,
-        { "actor":9, "text": "Was ist mit der Relegion ? Du bist aber ein super Mann" },
-        { "actor":6, "text": "Lass das Gefrage. Du weißt das ich gut genug bin für Dich" },
-        { "actor":9, "text": "Du musst dran glauben" },    
-        { "actor":6, "text": "Das muss man, Ja ?" },
-        { "actor":9, "text": "Ach ! Du magst nicht mal die Beichten und die Taufen" },
-        { "actor":6, "text": "Ich mag die Beichten und Taufen - was erzählst Du hier ?" },
-        { "actor":9, "text": "Du warst noch nicht mal zu einer Messe geschweige denn bei einer Beichte oder Taufe ! Also erzähl mir nichts vom Pferd und wegen du glaubst an Gott" },
-        { "actor":6, "text": "Es sagen alle in ihrer Sprache, aber ich darf es nicht - oder was ?"},
-        { "actor":9, "text": "Nein, darfst du nicht weißt du auch wieso ?" },
-        { "actor":6, "text": "Wieso ?" },
-        { "actor":9, "text": "Du bist noch nicht mal gläubig ?" },
-        { "actor":6, "text": "Aber das ist doch nicht wichtig" },
-        { "actor":9, "text": "Ich schlafe alleine , ich lasse das Schloss offen" },
-        { "actor":6, "text": "Nimm die Bulle und gib 3 Trpfen in das Glas, dann sollte Sie schlafen und das tief und fest" },
-      ]
-    }  
-        
-        "label": "Szene Spaziergang",
-        "text": [
-        { "actor":4, "text": "Ich nin so sauer, ich könnte fluchen " },
-        { "actor":6, "text": "Was hast Du ? " },
-        { "actor":4, "text": "Mich möchte mich gleich dem Teufel übergeben. Wenn ich selbst ein Teufel wäre" },
-        { "actor":6, "text": "Hat sich dir was im Kopf verschoben " },
-        { "actor":4, "text": "Du schenkst Ihr Schmusck ? Spinnst Du " ?},
-        { "actor":6, "text": "Warum denn nicht ?" },
-        { "actor":4, "text": "Du schenkst Ihr Schmuck als ob das nichts wär" },
-        { "actor":6, "text": "Na und ? Es geht um Gretchen " },
-        { "actor":4, "text": "Sie weisß nicht mal Sie will " },
-        { "actor":6, "text": "Sie tut mir Leid, Ihr Kummer ist schwer. Kannst Du Ihr noch was holen " },
-        { "actor":4, "text": "Na klar ein Kinderspiel - Du bist zu verliebt " },
-
-
-
-
-
-
-
-
+  },
+  {
+    "label": "Szene Nacht 1",
+    "text": [
+      {
+        "actor": 6,
+        "text": "Ich bin Doktor, Magister und fürchte mich vor nichts. Ich strebte mein ganzes Leben schon nach Wissen."
+      },
+      {
+        "actor": 6,
+        "text": "Da hilft nur noch Magie!"
+      },
+      {
+        "actor": 6,
+        "text": "Wow du bist aber besonders hässlich!"
+      },
+      {
+        "actor": 19,
+        "text": "Also zuerst beschwörst du mich in diesen Saftladen und dann nennst du mich hässlich? Das ist eine Unverschämtheit, hast du jemals selbst in den Spiegel geblickt oder ist der Spiegel davor schon zerbrochen? Ich mach Garnichts für dich, bye-bye!. "
+      },
+      {
+        "actor": 6,
+        "text": "Scheiße, dieses dumme Miststück! "
+      },
+      {
+        "actor": 6,
+        "text": "Ugh,das muss mein Schüler sein "
+      },
+      {
+        "actor": 14,
+        "text": "Geht es ihnen Gut? Ich habe Stimmen aus ihrem Haus wahrgenommen, aber Sie gucken wahrscheinlich gerade nur GZSZ. "
+      },
+      {
+        "actor": 6,
+        "text": "Ja,das ist richtig und jetzt verschwinde! "
+      },
+      {
+        "actor": 14,
+        "text": "Okay, ich geh ja schon, bis dann! "
+      },
+      {
+        "actor": 6,
+        "text": "„Mein Leben ist wertlos und selbst der Erdgeist hat mich abgelehnt. Es ist Zeit meinem Leben ein Ende zu setzen mit diesem Gift "
+      },
+      {
+        "actor": 19,
+        "text": "Jesus hat sich geopfert für euch Menschen auf Erden. Der Herr sehnt dein Ende noch nicht herbei. Lebe Faust, Dein Leben hat noch einen Sinn!. "
+      },
+      {
+        "actor": 19,
+        "text": "Das ist mir egal! Du machst sowieso was du willst! Was wollen diese eigenartigen Kreaturen der Unterwelt hier? Solche Gestalten kenne ich nur aus Büchern. Für wahr, es gibt sie wirklich. "
+      },
+      {
+        "actor": 6,
+        "text": "„Oh...der Klang der Osterglocken, ich erinnere mich. Ihr habt recht, mein Leben hat noch einen Sinn."
+      },
+      {
+        "actor": 19,
+        "text": "Wir werden immer über dich wachen, Faust "
+      }
+    ]
+  },
+  {
+    "label": "Szene Studierzimmer",
+    "text": [
+      {
+        "actor": 6,
+        "text": "Was ist denn hier los?! Das ist also deine wahre Gestalt, Köter!"
+      },
+      {
+        "actor": 4,
+        "text": "Nenn mich nicht Köter, nenn mich Mephisto und dazu noch ein Teufel! Wie wär’s mit ner Wette?"
+      },
+      {
+        "actor": 6,
+        "text": "Eine Wette mit dem Teufel? Kann es sein, dass du dumm bist oder so?"
+      },
+      {
+        "actor": 4,
+        "text": "Nee, pass mal auf! Du kriegst dafür auch so viel McCes wie du willst!"
+      },
+      {
+        "actor": 6,
+        "text": "Also für McCes verkaufe ich mich jetzt nicht."
+      },
+      {
+        "actor": 4,
+        "text": "Verstehe, dann zeige ich dir Zeugs was noch kein Mensch davor gesehen hat"
+      },
+      {
+        "actor": 6,
+        "text": "Nah,danach strebe ich auch nicht, gib mir lieber noch Fortnite-Battlepass, Robux und ein hübsches Mädchen"
+      },
+      {
+        "actor": 4,
+        "text": "” Alles klar, aber dann will ich, dass du mir irgendwann dienst"
+      },
+      {
+        "actor": 6,
+        "text": "Von mir aus"
+      },
+      {
+        "actor": 4,
+        "text": "Gut, dann unterschreibe hier einmal mit Blut und ließ lieber nicht das Kleingedruckte"
+      },
+      {
+        "actor": 6,
+        "text": "Fertig"
+      },
+      {
+        "actor": 4,
+        "text": "Gut, ich weiß schon was wir als 1. machen"
+      }
+    ]
+  },
+  {
+    "label": "Szene Gretchen Stube / Marthens Garten",
+    "text": [
+      {
+        "actor": 8,
+        "text": "Ich habe keine Ruhe mehr und werde langsam verrückt. Ich schaue aus dem Fenster wegen ihn und Küsse ihn wie ich will"
+      },
+      {
+        "actor": 9,
+        "text": "Was ist mit der Relegion ? Du bist aber ein super Mann"
+      },
+      {
+        "actor": 6,
+        "text": "Lass das Gefrage. Du weißt das ich gut genug bin für Dich"
+      },
+      {
+        "actor": 9,
+        "text": "Du musst dran glauben"
+      },
+      {
+        "actor": 6,
+        "text": "Das muss man, Ja ?"
+      },
+      {
+        "actor": 9,
+        "text": "Ach ! Du magst nicht mal die Beichten und die Taufen"
+      },
+      {
+        "actor": 6,
+        "text": "Ich mag die Beichten und Taufen - was erzählst Du hier ?"
+      },
+      {
+        "actor": 9,
+        "text": "Du warst noch nicht mal zu einer Messe geschweige denn bei einer Beichte oder Taufe ! Also erzähl mir nichts vom Pferd und wegen du glaubst an Gott"
+      },
+      {
+        "actor": 6,
+        "text": "Es sagen alle in ihrer Sprache, aber ich darf es nicht - oder was ?"
+      },
+      {
+        "actor": 9,
+        "text": "Nein, darfst du nicht weißt du auch wieso ?"
+      },
+      {
+        "actor": 6,
+        "text": "Wieso ?"
+      },
+      {
+        "actor": 9,
+        "text": "Du bist noch nicht mal gläubig ?"
+      },
+      {
+        "actor": 6,
+        "text": "Aber das ist doch nicht wichtig"
+      },
+      {
+        "actor": 9,
+        "text": "Ich schlafe alleine , ich lasse das Schloss offen"
+      },
+      {
+        "actor": 6,
+        "text": "Nimm die Bulle und gib 3 Trpfen in das Glas, dann sollte Sie schlafen und das tief und fest"
+      }
+    ]
+  },
+  {
+    "label": "Szene Spaziergang",
+    "text": [
+      {
+        "actor": 4,
+        "text": "Ich nin so sauer, ich könnte fluchen "
+      },
+      {
+        "actor": 6,
+        "text": "Was hast Du ? "
+      },
+      {
+        "actor": 4,
+        "text": "Mich möchte mich gleich dem Teufel übergeben. Wenn ich selbst ein Teufel wäre"
+      },
+      {
+        "actor": 6,
+        "text": "Hat sich dir was im Kopf verschoben "
+      },
+      {
+        "actor": 4,
+        "text": "Du schenkst Ihr Schmusck ? Spinnst Du "
+      },
+      {
+        "actor": 6,
+        "text": "Warum denn nicht ?"
+      },
+      {
+        "actor": 4,
+        "text": "Du schenkst Ihr Schmuck als ob das nichts wär"
+      },
+      {
+        "actor": 6,
+        "text": "Na und ? Es geht um Gretchen "
+      },
+      {
+        "actor": 4,
+        "text": "Sie weisß nicht mal Sie will "
+      },
+      {
+        "actor": 6,
+        "text": "Sie tut mir Leid, Ihr Kummer ist schwer. Kannst Du Ihr noch was holen "
+      },
+      {
+        "actor": 4,
+        "text": "Na klar ein Kinderspiel - Du bist zu verliebt "
+      }
+    ]
+  }
+]
