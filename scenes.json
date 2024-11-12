@@ -1,6 +1,6 @@
 [
     {
-      "label": "Pronolog im Himmel",
+      "label": "Szene Nacht 1",
       "text": [
         { "actor":1, "text": "Die Sonne gibt den Engeln Stärke" },
         { "actor":2, "text": "Es leuchtet alles so nett" },
@@ -22,7 +22,7 @@
     },
 
     {
-      "label": "Auerbachs Keller",
+      "label": "Szene Auerbachs Keller",
       "text": [
         { "actor":19, "text": "Man wollt Ihr nicht trinken Sonst sauft ihr euch doch auch die Birne weg" },
         { "actor":20, "text": "Dann bring uns was zu saufen, Kumpel"},
@@ -45,7 +45,7 @@
     },
 
     {
-      "label": "Nacht",
+      "label": "Szene Nacht",
       "text": [
         { "actor":6, "text": "Ich bin Doktor,Magister und fürchte mich vor nichts. Ich strebte mein ganzes Leben schon nach Wissen" },
         { "actor":6, "text": "Da hilft nur noch Magie" },
@@ -79,7 +79,7 @@
     },
 
     {
-      "label": "Nacht. Straße vor Gretchens Türe",
+      "label": "Szene Nacht. Straße vor Gretchens Türe",
       "text": [
         { "actor":4, "text": "Ach, was für eine laue Nacht. Da singt sich’s doch gleich bessere" },
         { "actor":15, "text": "Was läuft hier Worum geht’s Irgendwas stimmt hier nicht.Es geht um Gretchen, oder Was habt ihr mit ihr gemacht" },
@@ -93,7 +93,7 @@
     },
 
     {
-      "label": "Nachbarin Haus",
+      "label": "Szene Nachbarin Haus",
       "text": [
         { "actor":8, "text": "Ach, Gretchen Ich weiß einfach nicht mehr weiter. Mein Mann ist weg, und ich habe keine Ahnung, wo er ist. Ob er noch lebt oder längst tot ist. Was soll ich bloß machen" },
         { "actor":7, "text": "Das ist wirklich schlimm, Marthe. Aber weißt du, ich habe etwas gefunden... Schmuck Ganz tollen Schmuck" },
@@ -109,7 +109,7 @@
     },
 
     {
-      "label": "Straße",
+      "label": "Szene Straße",
       "text": [
         { "actor":6, "text": "Mein schönes Fräulein darf ich es wagen Darf ich Sie nach Hause begleiten" },
         { "actor":7, "text": "Neiiiiiin Danke, aber das schaﬀe ich allein" },
@@ -156,7 +156,7 @@
     },
 
     {
-      "label": "Kerker",
+      "label": "Szene Kerker",
       "text": [
         { "actor":6, "text": "Gretchen, ich bin's Ich habe die Schlüssel zu deinem Kerker. Ich kann dich hier nicht länger einsperren lassen" },
         { "actor":7, "text": "Wer da Wer stört mich in meinem Elend" },
@@ -174,7 +174,7 @@
     },
 
     {
-      "label": "Marthes Garten",
+      "label": "Szene Marthes Garten",
       "text": [
         { "actor":6, "text": "Gretchen, seit dem Moment, als ich dich das erste Mal sah, hat sich in mir alles verändert. Ich kann an nichts anderes mehr denken als an dich. Du hast mein Herz erobert." },
         { "actor":7, "text": "Faust, ich spüre das Gleiche. Aber mein Leben ist schwierig. Ich habe so viel Verantwortung. Ich arbeite den ganzen Tag, helfe im Haus und kümmere mich um meine Mutter und meinen Bruder. Meine Familie zählt nur noch auf mich." },
@@ -197,7 +197,7 @@
     },
 
     {
-      "label": "Hexenküche",
+      "label": "Szene Hexenküche",
       "text": [
         { "actor":23, "text": "Wir kochen Suppe für die Armen. " },
         { "actor":4, "text": "Ihr habt ein großes Publikum" },
@@ -221,7 +221,7 @@
     },
 
     {
-    "label": "Walpurgisnacht",
+    "label": "Szene Walpurgisnacht",
     "text": [
       { "actor":4, "text": "Ich liebe es. Dafür würde ich glatt sterben - ach bin ich heute wieder witzig. All diese Weiber, sie warten alle auf mich. Was denkst welche soll ich zuerst nehmen. " },
       { "actor":6, "text": "Das ist mir egal! Du machst sowieso was du willst! Was wollen diese eigenartigen Kreaturen der Unterwelt hier? Solche Gestalten kenne ich nur aus Büchern. Für wahr, es gibt sie wirklich. " },
@@ -264,4 +264,17 @@
         { "actor":19, "text": "Wir werden immer über dich wachen, Faust " },
       ]
  }       
-]
+        "label": "Szene Studierzimmer",
+        "text": [
+        { "actor":6, "text": "Was ist denn hier los?! Das ist also deine wahre Gestalt, Köter!" },
+        { "actor":4, "text": "Nenn mich nicht Köter, nenn mich Mephisto und dazu noch ein Teufel! Wie wär’s mit ner Wette?" },
+        { "actor":6, "text": "Eine Wette mit dem Teufel? Kann es sein, dass du dumm bist oder so?" },
+        { "actor":4, "text": "Nee, pass mal auf! Du kriegst dafür auch so viel McCes wie du willst!" },    
+        { "actor":6, "text": "Also für McCes verkaufe ich mich jetzt nicht." },
+        { "actor":4, "text": "Verstehe, dann zeige ich dir Zeugs was noch kein Mensch davor gesehen hat" },
+        { "actor":6, "text": "Nah,danach strebe ich auch nicht, gib mir lieber noch Fortnite-Battlepass, Robux und ein hübsches Mädchen" },
+        { "actor":4, "text": "” Alles klar, aber dann will ich, dass du mir irgendwann dienst" },
+        { "actor":6, "text": "Von mir aus" },
+        { "actor":4, "text": "Gut, dann unterschreibe hier einmal mit Blut und ließ lieber nicht das Kleingedruckte" },
+        { "actor":6, "text": "Fertig" },
+        { "actor":4, "text": "Gut, ich weiß schon was wir als 1. machen" },
