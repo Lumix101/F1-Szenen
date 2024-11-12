@@ -251,15 +251,15 @@
         { "actor":6, "text": "Ich bin Doktor, Magister und fürchte mich vor nichts. Ich strebte mein ganzes Leben schon nach Wissen." },
         { "actor":6, "text": "Da hilft nur noch Magie!" },
         { "actor":6, "text": "Wow du bist aber besonders hässlich!" },
-        { "actor":18, "text": "Also zuerst beschwörst du mich in diesen Saftladen und dann nennst du mich hässlich? Das ist eine Unverschämtheit, hast du jemals selbst in den Spiegel geblickt oder ist der Spiegel davor schon zerbrochen? Ich mach Garnichts für dich, bye-bye!. " },
+        { "actor":19, "text": "Also zuerst beschwörst du mich in diesen Saftladen und dann nennst du mich hässlich? Das ist eine Unverschämtheit, hast du jemals selbst in den Spiegel geblickt oder ist der Spiegel davor schon zerbrochen? Ich mach Garnichts für dich, bye-bye!. " },
         { "actor":6, "text": "Scheiße, dieses dumme Miststück! " },
         { "actor":6, "text": "Ugh,das muss mein Schüler sein " }
-        { "actor":15, "text": "Geht es ihnen Gut? Ich habe Stimmen aus ihrem Haus wahrgenommen, aber Sie gucken wahrscheinlich gerade nur GZSZ. " },
+        { "actor":14, "text": "Geht es ihnen Gut? Ich habe Stimmen aus ihrem Haus wahrgenommen, aber Sie gucken wahrscheinlich gerade nur GZSZ. " },
         { "actor":6, "text": "Ja,das ist richtig und jetzt verschwinde! " },
-        { "actor":15, "text": "Okay, ich geh ja schon, bis dann! " },
+        { "actor":14, "text": "Okay, ich geh ja schon, bis dann! " },
         { "actor":6, "text": "„Mein Leben ist wertlos und selbst der Erdgeist hat mich abgelehnt. Es ist Zeit meinem Leben ein Ende zu setzen mit diesem Gift " },
-        { "actor":18, "text": "Jesus hat sich geopfert für euch Menschen auf Erden. Der Herr sehnt dein Ende noch nicht herbei. Lebe Faust, Dein Leben hat noch einen Sinn!. " },
-        { "actor":18, "text": "Das ist mir egal! Du machst sowieso was du willst! Was wollen diese eigenartigen Kreaturen der Unterwelt hier? Solche Gestalten kenne ich nur aus Büchern. Für wahr, es gibt sie wirklich. " },
+        { "actor":19, "text": "Jesus hat sich geopfert für euch Menschen auf Erden. Der Herr sehnt dein Ende noch nicht herbei. Lebe Faust, Dein Leben hat noch einen Sinn!. " },
+        { "actor":19, "text": "Das ist mir egal! Du machst sowieso was du willst! Was wollen diese eigenartigen Kreaturen der Unterwelt hier? Solche Gestalten kenne ich nur aus Büchern. Für wahr, es gibt sie wirklich. " },
         { "actor":6, "text": "„Oh...der Klang der Osterglocken, ich erinnere mich. Ihr habt recht, mein Leben hat noch einen Sinn." },
         { "actor":19, "text": "Wir werden immer über dich wachen, Faust " },
       ]
@@ -298,4 +298,27 @@
         { "actor":6, "text": "Aber das ist doch nicht wichtig" },
         { "actor":9, "text": "Ich schlafe alleine , ich lasse das Schloss offen" },
         { "actor":6, "text": "Nimm die Bulle und gib 3 Trpfen in das Glas, dann sollte Sie schlafen und das tief und fest" },
+      ]
+    }  
+        
+        "label": "Szene Spaziergang",
+        "text": [
+        { "actor":4, "text": "Ich nin so sauer, ich könnte fluchen " },
+        { "actor":6, "text": "Was hast Du ? " },
+        { "actor":4, "text": "Mich möchte mich gleich dem Teufel übergeben. Wenn ich selbst ein Teufel wäre" },
+        { "actor":6, "text": "Hat sich dir was im Kopf verschoben " },
+        { "actor":4, "text": "Du schenkst Ihr Schmusck ? Spinnst Du " ?},
+        { "actor":6, "text": "Warum denn nicht ?" },
+        { "actor":4, "text": "Du schenkst Ihr Schmuck als ob das nichts wär" },
+        { "actor":6, "text": "Na und ? Es geht um Gretchen " },
+        { "actor":4, "text": "Sie weisß nicht mal Sie will " },
+        { "actor":6, "text": "Sie tut mir Leid, Ihr Kummer ist schwer. Kannst Du Ihr noch was holen " },
+        { "actor":4, "text": "Na klar ein Kinderspiel - Du bist zu verliebt " },
+
+
+
+
+
+
+
 
