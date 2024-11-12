@@ -278,3 +278,24 @@
         { "actor":4, "text": "Gut, dann unterschreibe hier einmal mit Blut und ließ lieber nicht das Kleingedruckte" },
         { "actor":6, "text": "Fertig" },
         { "actor":4, "text": "Gut, ich weiß schon was wir als 1. machen" },
+      ]
+    }  
+        
+        "label": "Szene Gretchen Stube / Marthens Garten",
+        "text": [
+        { "actor":8, "text": "Ich habe keine Ruhe mehr und werde langsam verrückt. Ich schaue aus dem Fenster wegen ihn und Küsse ihn wie ich will" },,
+        { "actor":9, "text": "Was ist mit der Relegion ? Du bist aber ein super Mann" },
+        { "actor":6, "text": "Lass das Gefrage. Du weißt das ich gut genug bin für Dich" },
+        { "actor":9, "text": "Du musst dran glauben" },    
+        { "actor":6, "text": "Das muss man, Ja ?" },
+        { "actor":9, "text": "Ach ! Du magst nicht mal die Beichten und die Taufen" },
+        { "actor":6, "text": "Ich mag die Beichten und Taufen - was erzählst Du hier ?" },
+        { "actor":9, "text": "Du warst noch nicht mal zu einer Messe geschweige denn bei einer Beichte oder Taufe ! Also erzähl mir nichts vom Pferd und wegen du glaubst an Gott" },
+        { "actor":6, "text": "Es sagen alle in ihrer Sprache, aber ich darf es nicht - oder was ?"},
+        { "actor":9, "text": "Nein, darfst du nicht weißt du auch wieso ?" },
+        { "actor":6, "text": "Wieso ?" },
+        { "actor":9, "text": "Du bist noch nicht mal gläubig ?" },
+        { "actor":6, "text": "Aber das ist doch nicht wichtig" },
+        { "actor":9, "text": "Ich schlafe alleine , ich lasse das Schloss offen" },
+        { "actor":6, "text": "Nimm die Bulle und gib 3 Trpfen in das Glas, dann sollte Sie schlafen und das tief und fest" },
+
