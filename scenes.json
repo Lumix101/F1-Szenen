@@ -220,3 +220,24 @@
       ]
     }
   ]
+        "label": "Walpurgisnacht",
+        "text": [
+          { "actor":4, "text": "Ich liebe es. Dafür würde ich glatt sterben - ach bin ich heute wieder witzig. All diese Weiber, sie warten alle auf mich. Was denkst welche soll ich zuerst nehmen. " },
+          { "actor":6, "text": "Das ist mir egal! Du machst sowieso was du willst! Was wollen diese eigenartigen Kreaturen der Unterwelt hier? Solche Gestalten kenne ich nur aus Büchern. Für wahr, es gibt sie wirklich. " },
+          { "actor":4, "text": "Weißt du nicht was heute ist? Heute ist die Nacht zum 1.Mai, da wird hier auf dem Blocksberg immer ne aﬀengeile Party gefeiert. Schau dich um, sie kommen alle wegen mir " },
+          { "actor":6, "text": "Oh ja, ich sehe Ziegenböcke, Hexer, Katzen und komische Wesen… die wollen sich alle! " },
+          { "actor":4, "text": "Nein du Idiot, wir wollen alle zusammen Spaß haben und Party machen. Also hab dich nicht so und komm mit ins Gewimmel!" },
+          { "actor":6, "text": "Naja, was habe ich zu verlieren.  " },
+          { "actor":6, "text": "Mephisto, Memphisto, Mephisto" },
+          { "actor":6, "text": "Schau da oben, siehst du mein Gretchen?. " },
+          { "actor":4, "text": "Ich sehe nichts! " },
+          { "actor":6, "text": "Doch, schau! Ich sehe ein blasses, schönes Kind, sie schiebt sich langsam nur vom Ort. Sie scheint mit geschlossenen Füßen zu gehen, Oh Gott. (Er nimmt die Hände vor sein Gesicht). " },
+          { "actor":4, "text": "Ich sehe nichts, dass bildest du dir ein! Das ist nur ein Zauberbild, ein Idol! " },
+          { "actor":6, "text": "Nein, Du irrst Dich, es sind ihre Augen. Die nun die Augen einer Toten sind.Das ist die Brust, die Gretchen mir geboten, das ist ihr Körper, der kurz mein ward" },
+          { "actor":6, "text": "Du Verräter, wegen dir! Was bist du nur für ein furchtbares Wesen! Du wusstest, dass dieses arme Geschöpf an diesem elenden Ort ist! Und du hast mir nichts gesagt! " },
+          { "actor":4, "text": "Sie wird nicht die letzte sein! Vergiss Sie! " },
+          { "actor":6, "text": "Nein, ich bin nicht wie du! Ich habe dieses wunderbare und reine Geschöpf doch erst in diese Lage gebracht! Wie kannst du so egoistisch sein? Ich bin ein Mensch, das kann ich Gretchen nicht antun. Ich muss sie retten. Nein, du rettest sie, oder ich…. " },
+          { "actor":4, "text": "Oder was? Ich kann das Urteil nicht widerrufen, bedenke du hast ihren Bruder umgebracht! " },
+          { "actor":6, "text": "Und das aus deinem Mund!!! Es ist alles egal, du führst mich jetzt zu ihr - das befehle ich Dir!" },
+          { "actor":4, "text": "Na gut du Idiot. Ich besorge die Schlüssel und bringe dich zu ihr, aber rausholen musst du sie. Ich warte dann so lange draußen mit meinen Zauberpferdchen." },
+          { "actor":6, "text": "Letst´s o!" },
